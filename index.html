@@ -14,7 +14,6 @@
     overflow: hidden;
   } 
 
-/* Hide the scrollbar in Webkit browsers (Chrome, Safari) */
   body::-webkit-scrollbar {
     display: none;
   }
@@ -143,12 +142,12 @@
   }
 
   function displayClans(clans) {
-  clans.sort((a, b) => a.Rank - b.Rank); // Sort by real rank
+  clans.sort((a, b) => a.Rank - b.Rank);
   clans.forEach(clan => {
     const tableRow = document.createElement('tr');
     tableRow.style.borderRadius = '10px';
     const rankCell = document.createElement('td');
-    rankCell.textContent = `#${clan.Rank}`; // Display real rank
+    rankCell.textContent = `#${clan.Rank}`;
     const clanCell = document.createElement('td');
     clanCell.textContent = clan.Name;
     const pointsCell = document.createElement('td');
