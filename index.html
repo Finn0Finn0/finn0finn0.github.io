@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Top 30.000 Clans in Pet Simulator 99</title>
+<title>Top 30,000 Clans in Pet Simulator 99</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@600&display=swap">  
 <style>
   table {
@@ -82,7 +82,7 @@
 <body>
 
 <div id="searchContainer">
-  <input type="text" id="searchBar" placeholder="Search for clans..." onkeyup="handleKeyUp(event)">
+  <input type="text" id="searchBar" placeholder="Search for clans... (Use &quot;&quot; to search for a specific Clan)" onkeyup="handleKeyUp(event)">
   <button id="searchButton" onclick="filterClans()">Enter</button>
 </div>
 
@@ -99,8 +99,14 @@
 <script>
   const clanTable = document.getElementById('clanData');
   let allClans = [];
+  let displayedClans = [];
+  let currentPage = 1;
+  const pageSize = 1000;
+  const totalClans = 30000;
+  const totalPages = Math.ceil(totalClans / pageSize);
+  let fetchingData = false;
 
-  function fetchClanData() {
+  async function fetchClanData() {
     clanTable.innerHTML = `
       <tr>
         <th>Rank</th>
@@ -110,62 +116,66 @@
         <th>Members</th>
       </tr>
     `;
-    let clans = [];
-    const pageSize = 1000;
-    const totalClans = 30000;
-    const totalPages = Math.ceil(totalClans / pageSize);
-    let fetchPromises = [];
 
     for (let page = 1; page <= totalPages; page++) {
-      fetchPromises.push(
-        fetch(`https://biggamesapi.io/api/clans?page=${page}&pageSize=${pageSize}&sort=Points&sortOrder=desc`)
-          .then(response => response.json())
-          .then(data => {
-            if (data.status === "ok") {
-              const pageClans = data.data.map((clan, index) => ({
-                ...clan,
-                Rank: (page - 1) * pageSize + index + 1
-              }));
-              clans = clans.concat(pageClans);
-            } else {
-              console.error('Error fetching clan data:', data.message);
-            }
-          })
-          .catch(error => console.error('Error fetching clan data:', error))
-      );
+      try {
+        const response = await fetch(`https://biggamesapi.io/api/clans?page=${page}&pageSize=${pageSize}&sort=Points&sortOrder=desc`);
+        const data = await response.json();
+        
+        if (data.status === "ok") {
+          const pageClans = data.data.map((clan, index) => ({
+            ...clan,
+            Rank: (page - 1) * pageSize + index + 1
+          }));
+          allClans = allClans.concat(pageClans);
+        } else {
+          console.error('Error fetching clan data:', data.message);
+          break; // Stop fetching if there's an error
+        }
+      } catch (error) {
+        console.error('Error fetching clan data:', error);
+        break; // Stop fetching if there's an error
+      }
     }
 
-    Promise.all(fetchPromises).then(() => {
-      allClans = clans;
-      displayClans(clans);
-    });
+    loadMoreClans();
   }
 
   function displayClans(clans) {
-  clans.sort((a, b) => a.Rank - b.Rank);
-  clans.forEach(clan => {
-    const membersCell = document.createElement('td');
-    membersCell.textContent = `${clan.Members + 1}/${clan.MemberCapacity}`;
-    const tableRow = document.createElement('tr');
-    tableRow.style.borderRadius = '10px';
-    const rankCell = document.createElement('td');
-    rankCell.textContent = `#${clan.Rank}`;
-    const clanCell = document.createElement('td');
-    clanCell.textContent = clan.Name;
-    const pointsCell = document.createElement('td');
-    pointsCell.textContent = formatPoints(clan.Points);
-    const diamondsCell = document.createElement('td');
-    diamondsCell.textContent = formatDiamonds(clan.DepositedDiamonds);
+    clans.forEach(clan => {
+      const membersCell = document.createElement('td');
+      membersCell.textContent = `${clan.Members + 1}/${clan.MemberCapacity}`;
+      const tableRow = document.createElement('tr');
+      tableRow.style.borderRadius = '10px';
+      const rankCell = document.createElement('td');
+      rankCell.textContent = `#${clan.Rank}`;
+      const clanCell = document.createElement('td');
+      clanCell.textContent = clan.Name;
+      const pointsCell = document.createElement('td');
+      pointsCell.textContent = formatPoints(clan.Points);
+      const diamondsCell = document.createElement('td');
+      diamondsCell.textContent = formatDiamonds(clan.DepositedDiamonds);
 
-    tableRow.appendChild(rankCell);
-    tableRow.appendChild(clanCell);
-    tableRow.appendChild(pointsCell);
-    tableRow.appendChild(diamondsCell);
-    tableRow.appendChild(membersCell);
+      tableRow.appendChild(rankCell);
+      tableRow.appendChild(clanCell);
+      tableRow.appendChild(pointsCell);
+      tableRow.appendChild(diamondsCell);
+      tableRow.appendChild(membersCell);
 
-    clanTable.appendChild(tableRow);
-  });
-}
+      clanTable.appendChild(tableRow);
+    });
+  }
+
+  function loadMoreClans() {
+    if (fetchingData || currentPage > totalPages) return;
+    fetchingData = true;
+    const start = (currentPage - 1) * pageSize;
+    const end = currentPage * pageSize;
+    const clansToLoad = allClans.slice(start, end);
+    displayClans(clansToLoad);
+    currentPage++;
+    fetchingData = false;
+  }
 
   function formatPoints(points) {
     if (points >= 1000000000) {
@@ -198,8 +208,25 @@
   }
 
   function filterClans() {
-    const searchTerm = document.getElementById('searchBar').value.toLowerCase();
-    const filteredClans = searchTerm ? allClans.filter(clan => clan.Name.toLowerCase().includes(searchTerm)) : allClans;
+  const searchTerm = document.getElementById('searchBar').value.trim(); // Remove leading/trailing whitespace
+
+  // Check if the search term is enclosed in single or double quotes
+  if ((searchTerm.startsWith('"') && searchTerm.endsWith('"')) || (searchTerm.startsWith("'") && searchTerm.endsWith("'")) && searchTerm.length >= 2) {
+    const exactTerm = searchTerm.substring(1, searchTerm.length - 1);
+    const filteredClans = allClans.filter(clan => clan.Name.toLowerCase() === exactTerm.toLowerCase());
+    clanTable.innerHTML = `
+      <tr>
+        <th>Rank</th>
+        <th>Clan</th>
+        <th>Points</th>
+        <th>Deposited Diamonds</th>
+        <th>Members</th>
+      </tr>
+    `;
+    displayClans(filteredClans);
+  } else {
+    // If search term is not enclosed in quotes, perform normal filtering
+    const filteredClans = searchTerm ? allClans.filter(clan => clan.Name.toLowerCase().includes(searchTerm.toLowerCase())) : allClans;
     clanTable.innerHTML = `
       <tr>
         <th>Rank</th>
@@ -211,6 +238,18 @@
     `;
     displayClans(filteredClans);
   }
+}
+
+
+
+
+  function handleScroll() {
+    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+      loadMoreClans();
+    }
+  }
+
+  window.addEventListener('scroll', handleScroll);
 
   fetchClanData();
 </script>
