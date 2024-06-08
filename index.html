@@ -155,7 +155,7 @@
     const diamondsCell = document.createElement('td');
     diamondsCell.textContent = formatDiamonds(clan.DepositedDiamonds);
     const membersCell = document.createElement('td');
-    membersCell.textContent = `${clan.Members}/${clan.MemberCapacity}`;
+    membersCell.textContent = `${clan.Members} + 1/${clan.MemberCapacity}`;
 
     tableRow.appendChild(rankCell);
     tableRow.appendChild(clanCell);
