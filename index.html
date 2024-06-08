@@ -144,6 +144,8 @@
   function displayClans(clans) {
   clans.sort((a, b) => a.Rank - b.Rank);
   clans.forEach(clan => {
+    const membersCell = document.createElement('td');
+    membersCell.textContent = `${clan.Members + 1}/${clan.MemberCapacity}`;
     const tableRow = document.createElement('tr');
     tableRow.style.borderRadius = '10px';
     const rankCell = document.createElement('td');
@@ -154,8 +156,6 @@
     pointsCell.textContent = formatPoints(clan.Points);
     const diamondsCell = document.createElement('td');
     diamondsCell.textContent = formatDiamonds(clan.DepositedDiamonds);
-    const membersCell = document.createElement('td');
-    membersCell.textContent = `${clan.Members}++1/${clan.MemberCapacity}`;
 
     tableRow.appendChild(rankCell);
     tableRow.appendChild(clanCell);
