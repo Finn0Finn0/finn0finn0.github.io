@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Simulator</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap">
+    <style>
+        body {
+            font-size: 16px;
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(47, 47, 47);
+            color: #ffffff;
+            overflow: hidden;
+            font-family: 'Fredoka One', sans-serif;
+        }
+
+        body::-webkit-scrollbar {
+            display: none;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            width: 80%;
+            height: 90%;
+            position: relative;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .container::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 1px;
+            background-color: white;
+            transform: translateX(-50%);
+        }
+
+        .section {
+            flex: 1;
+            text-align: center;
+            padding: 30px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            background-color: rgb(47, 47, 47);
+            border: 1px solid #282828;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .section img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .button {
+            background-color: #04AA6D;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.5em;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background-color: #039e5a;
+        }
+
+        .image-container {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="section">
+            <h2>Pet Simulator Clan Leaderboard</h2>
+            <div class="image-container">
+                <img src="image.png" alt="Image">
+            </div>
+            <button class="button" onClick="peticons.html">GO!</button>
+        </div>
+        <div class="section">
+            <h2>Pet Simulator Pet Icons</h2>
+            <div class="image-container">
+                <img src="image2.png" alt="Image">
+            </div>
+            <button class="button" onClick="clanslb.html">GO!</button>
+        </div>
+    </div>
+</body>
+</html>
