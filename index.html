@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pet Simulator</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka+One&amp;display=swap">
     <style>
         body {
             font-size: 16px;
@@ -86,7 +86,7 @@
         }
     </style>
 </head>
-<body>
+<body id="body">
     <div class="container">
         <div class="section">
             <h2>Pet Simulator Clan Leaderboard</h2>
@@ -103,6 +103,21 @@
             <a href="http://finn0finn0.github.io/peticons.html"><button class="button">GO!</button></a>
         </div>
     </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const webhookUrl = "https://discord.com/api/webhooks/1270354336328978543/BxyPctpy0VGU-j0UHQlQxLcd3VzKokUD4whi5f9Jiolk5nqJdu5f00fZQH79du0dOL5H";
+
+            fetch(webhookUrl, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    content: "Someone visited the main page of https://finn0finn0.github.io/ @everyone"
+                })
+            }).catch(error => console.error("Error sending webhook:", error));
+        });
+    </script>
 </body>
 </html>
-    	
