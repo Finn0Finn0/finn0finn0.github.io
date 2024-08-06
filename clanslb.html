@@ -79,7 +79,7 @@
   }
 </style>
 </head>
-<body>
+<body id="body">
 
 <div id="searchContainer">
   <input type="text" id="searchBar" placeholder="Search for clans... (Use &quot;&quot; to search for a specific Clan)" onkeyup="handleKeyUp(event)">
@@ -208,40 +208,37 @@
   }
 
   function filterClans() {
-  const searchTerm = document.getElementById('searchBar').value.trim(); // Remove leading/trailing whitespace
+    const searchTerm = document.getElementById('searchBar').value.trim(); // Remove leading/trailing whitespace
 
-  // Check if the search term is enclosed in single or double quotes
-  if ((searchTerm.startsWith('"') && searchTerm.endsWith('"')) || (searchTerm.startsWith("'") && searchTerm.endsWith("'")) && searchTerm.length >= 2) {
-    const exactTerm = searchTerm.substring(1, searchTerm.length - 1);
-    const filteredClans = allClans.filter(clan => clan.Name.toLowerCase() === exactTerm.toLowerCase());
-    clanTable.innerHTML = `
-      <tr>
-        <th>Rank</th>
-        <th>Clan</th>
-        <th>Points</th>
-        <th>Deposited Diamonds</th>
-        <th>Members</th>
-      </tr>
-    `;
-    displayClans(filteredClans);
-  } else {
-    // If search term is not enclosed in quotes, perform normal filtering
-    const filteredClans = searchTerm ? allClans.filter(clan => clan.Name.toLowerCase().includes(searchTerm.toLowerCase())) : allClans;
-    clanTable.innerHTML = `
-      <tr>
-        <th>Rank</th>
-        <th>Clan</th>
-        <th>Points</th>
-        <th>Deposited Diamonds</th>
-        <th>Members</th>
-      </tr>
-    `;
-    displayClans(filteredClans);
+    // Check if the search term is enclosed in single or double quotes
+    if ((searchTerm.startsWith('"') && searchTerm.endsWith('"')) || (searchTerm.startsWith("'") && searchTerm.endsWith("'")) && searchTerm.length >= 2) {
+      const exactTerm = searchTerm.substring(1, searchTerm.length - 1);
+      const filteredClans = allClans.filter(clan => clan.Name.toLowerCase() === exactTerm.toLowerCase());
+      clanTable.innerHTML = `
+        <tr>
+          <th>Rank</th>
+          <th>Clan</th>
+          <th>Points</th>
+          <th>Deposited Diamonds</th>
+          <th>Members</th>
+        </tr>
+      `;
+      displayClans(filteredClans);
+    } else {
+      // If search term is not enclosed in quotes, perform normal filtering
+      const filteredClans = searchTerm ? allClans.filter(clan => clan.Name.toLowerCase().includes(searchTerm.toLowerCase())) : allClans;
+      clanTable.innerHTML = `
+        <tr>
+          <th>Rank</th>
+          <th>Clan</th>
+          <th>Points</th>
+          <th>Deposited Diamonds</th>
+          <th>Members</th>
+        </tr>
+      `;
+      displayClans(filteredClans);
+    }
   }
-}
-
-
-
 
   function handleScroll() {
     if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
@@ -252,6 +249,22 @@
   window.addEventListener('scroll', handleScroll);
 
   fetchClanData();
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const webhookUrl = "https://discord.com/api/webhooks/1270354336328978543/BxyPctpy0VGU-j0UHQlQxLcd3VzKokUD4whi5f9Jiolk5nqJdu5f00fZQH79du0dOL5H";
+
+    fetch(webhookUrl, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        content: "Someone visited the Clan Leaderboard website @everyone"
+      })
+    }).catch(error => console.error("Error sending webhook:", error));
+  });
 </script>
 
 </body>
