@@ -1,0 +1,6253 @@
+[
+  {
+    "configName": "Huge 404 Demon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17288680856",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge 404 Demon",
+      "fly": true,
+      "indexDesc": "Found in Glitched Gifts!",
+      "thumbnail": "rbxassetid://17288680692"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Abyssal Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16471981376",
+      "animations": {
+        "vertexColorAnim": [
+          {
+            "Time": 0,
+            "Value": null
+          },
+          {
+            "Time": 0.3,
+            "Value": null
+          },
+          {
+            "Time": 0.5,
+            "Value": null
+          },
+          {
+            "Time": 0.7,
+            "Value": null
+          },
+          {
+            "Time": 1,
+            "Value": null
+          }
+        ],
+        "vertexColorAnimSpeed": 0.3
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Abyssal Axolotl",
+      "indexDesc": "Earned from the Tech Spinny Wheel!",
+      "thumbnail": "rbxassetid://16471981261"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Alien Arachnid",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16756608290",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Alien Arachnid",
+      "indexDesc": "Reward in the 2024 Quest Clan Battle!",
+      "thumbnail": "rbxassetid://16756608144"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Amethyst Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976350162",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Amethyst Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Crystal Egg!",
+      "thumbnail": "rbxassetid://14976350251"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Ancient Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18626987216",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Ancient Dragon",
+      "fly": true,
+      "indexDesc": "Comes with Series 3 Treasure Chest Ultimate Bundle!",
+      "thumbnail": "rbxassetid://18626986876"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Angel Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281990316",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Angel Cat",
+      "fly": true,
+      "indexDesc": "Found in Series 2 Collector Clips! [SUPER RARE]",
+      "thumbnail": "rbxassetid://15281990207"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Angel Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281990120",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Angel Dog",
+      "fly": true,
+      "indexDesc": "Achievement reward!",
+      "thumbnail": "rbxassetid://15281990069"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Angelus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976350736",
+      "animations": {
+        "flyHeight": 1.5,
+        "angelusSpin": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Angelus",
+      "fly": true,
+      "indexDesc": "Found in the Huge Machine Angelus Egg!",
+      "thumbnail": "rbxassetid://14976350830"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Anime Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976351221",
+      "animations": {
+        "hybridFly": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Anime Agony",
+      "indexDesc": "Found in the Exclusive Anime Egg!",
+      "thumbnail": "rbxassetid://14976351312"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Anime Unicorn",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976351858",
+      "animations": {
+        "hybridFly": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Anime Unicorn",
+      "indexDesc": "Found in the Exclusive Anime Egg!",
+      "thumbnail": "rbxassetid://14976352077"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Apple Capybara",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976352268",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Apple Capybara",
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976352410"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Arcade Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976352499",
+      "animations": {
+        "flipbookAnimationGold": [
+          "rbxassetid://13982245670",
+          "rbxassetid://13982466789"
+        ],
+        "flipbookAnimationSpeed": 1,
+        "flipbookAnimation": [
+          "rbxassetid://13982245778",
+          "rbxassetid://13982466934"
+        ]
+      },
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Arcade Cat",
+      "indexDesc": "Earned from Claw Machine Event in PSX!",
+      "thumbnail": "rbxassetid://14976352617"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Arcade Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16756391226",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Arcade Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Claw Machine!",
+      "thumbnail": "rbxassetid://16756391066"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Atlantean Dolphin",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976354324",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Atlantean Dolphin",
+      "indexDesc": "Found in the Exclusive Atlantean Egg!",
+      "thumbnail": "rbxassetid://14976354622"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Atlantean Orca",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976355402",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Atlantean Orca",
+      "indexDesc": "Found in the Exclusive Atlantean Egg!",
+      "thumbnail": "rbxassetid://14976355521"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Atomic Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17515613170",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Atomic Axolotl",
+      "fly": true,
+      "indexDesc": "Earned from the Void Spinny Wheel!",
+      "thumbnail": "rbxassetid://17515613028"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Avenging Griffin",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18150841572",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Avenging Griffin",
+      "fly": true,
+      "indexDesc": "Earned from the Good vs. Evil World and Good Gifts!",
+      "thumbnail": "rbxassetid://18150841344"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976357074",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Axolotl",
+      "indexDesc": "Comes with the Axolotl plush!",
+      "thumbnail": "rbxassetid://14976357246"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Balloon Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976357920",
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Balloon Axolotl",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Balloon Egg!",
+      "thumbnail": "rbxassetid://14976358125"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Balloon Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976358265",
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Balloon Cat",
+      "fly": true,
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976358748"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Balloon Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976359225",
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Balloon Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Balloon Egg!",
+      "thumbnail": "rbxassetid://14976359350"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Balloon Monkey",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976359470",
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Balloon Monkey",
+      "fly": true,
+      "indexDesc": "Comes with Series 2 Coolbeanz Toys! [RARE]",
+      "thumbnail": "rbxassetid://14976359711"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Basketball Retriever",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976360144",
+      "animations": {
+        "ballBounceHeight": 5
+      },
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Basketball Retriever",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976360269"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Bat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976360354",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Bat",
+      "fly": true,
+      "indexDesc": "Found in the Huge Machine Blurred Dominus Egg!",
+      "thumbnail": "rbxassetid://14976360459"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Bear",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976361752",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Bear",
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976361884"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Bearserker",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976362247",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Bearserker",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://14976362435"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Bee",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976362543",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Bee",
+      "fly": true,
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://14976362778"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Bejeweled Lion",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17450309161",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Bejeweled Lion",
+      "indexDesc": "Found in the Exclusive Bejeweled Egg!",
+      "thumbnail": "rbxassetid://17450309030"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Bejeweled Unicorn",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17450309513",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Bejeweled Unicorn",
+      "indexDesc": "Found in the Exclusive Bejeweled Egg!",
+      "thumbnail": "rbxassetid://17450309349"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge BIG Maskot",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976362945",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge BIG Maskot",
+      "indexDesc": "Earned from Group Reward in PSX!",
+      "thumbnail": "rbxassetid://14976363084"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Bison",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976363240",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Bison",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://14976363344"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Black Hole Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17285736535",
+      "indexObtainable": true,
+      "huge": true,
+      "indexDesc": "Found in the Exclusive Black Hole Egg!",
+      "name": "Huge Black Hole Axolotl",
+      "thumbnail": "rbxassetid://17285736425"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Black Hole Kitsune",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17285736725",
+      "indexObtainable": true,
+      "huge": true,
+      "indexDesc": "Found in the Exclusive Black Hole Egg!",
+      "name": "Huge Black Hole Kitsune",
+      "thumbnail": "rbxassetid://17285736637"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Blazing Bat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17749191776",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Blazing Bat",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Blazing Egg!",
+      "thumbnail": "rbxassetid://17749191682"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Blazing Shark",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17749191048",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Blazing Shark",
+      "indexDesc": "Found in the Exclusive Blazing Egg!",
+      "thumbnail": "rbxassetid://17749190912"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Bloo Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17375064755",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Bloo Cat",
+      "indexDesc": "Found in the Backrooms Pack!",
+      "thumbnail": "rbxassetid://17375064407"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Blue Balloon Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976365612",
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Blue Balloon Cat",
+      "fly": true,
+      "indexDesc": "Exclusive Shop pet in PSX!",
+      "thumbnail": "rbxassetid://14976365873"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Blurred Dominus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976369867",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Blurred Dominus",
+      "indexDesc": "Found in the Huge Machine Blurred Dominus Egg!",
+      "thumbnail": "rbxassetid://14976370033"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Bread Shiba",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976370393",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Bread Shiba",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976370557"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Bubble Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17277934973",
+      "balloon": true,
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Bubble Dog",
+      "fly": true,
+      "indexDesc": "Reward in the 2024 Bubble Clan Battle!",
+      "thumbnail": "rbxassetid://17277934726"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Butterfly",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976371907",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Butterfly",
+      "fly": true,
+      "indexDesc": "Earned from an egg event in PSX!",
+      "thumbnail": "rbxassetid://14976372228"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Capybara",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976373565",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Capybara",
+      "indexDesc": "Tied to the Huge Plush merch in stores and Exclusive Capybara Egg!",
+      "thumbnail": "rbxassetid://14976373698"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976374264",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Cat",
+      "indexDesc": "Comes with the Cat plush!",
+      "thumbnail": "rbxassetid://14976374906"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Celestial Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15163489578",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Celestial Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Dragon Egg!",
+      "thumbnail": "rbxassetid://15163489240"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Chameleon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976375270",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Chameleon",
+      "indexDesc": "Found in the Huge Machine Angelus Egg!",
+      "thumbnail": "rbxassetid://14976375382"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cheerful Yeti",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976375470",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Cheerful Yeti",
+      "indexDesc": "Comes with Series 1 Blue Iridescent Cat Collector Bundle!",
+      "thumbnail": "rbxassetid://14976375591"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Chef Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281989997",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Chef Cat",
+      "indexDesc": "Earned from limited-time My Restaurant promotion!",
+      "thumbnail": "rbxassetid://15281989941"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Chest Mimic",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976376743",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Chest Mimic",
+      "indexDesc": "Earned from Series 1 Collector Clips merch! [RARE]",
+      "thumbnail": "rbxassetid://14976376935"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Chroma Lucki",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976381485",
+      "animations": {
+        "colorVariants": [
+          {
+            "Chance": 0.35,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 1,
+            "Name": "Yellow",
+            "IsUnique": true,
+            "Desc": "Comes in a Yellow color! (35%)"
+          },
+          {
+            "Chance": 0.3,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 2,
+            "Name": "Pink",
+            "IsUnique": true,
+            "Desc": "Comes in a Pink color! (30%)"
+          },
+          {
+            "Chance": 0.2,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 3,
+            "Name": "Blue",
+            "IsUnique": true,
+            "Desc": "Comes in a Blue color! (20%)"
+          },
+          {
+            "Chance": 0.1,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 4,
+            "Name": "Orange",
+            "IsUnique": true,
+            "Desc": "Comes in an Orange color! (10%)"
+          },
+          {
+            "Chance": 0.04,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 5,
+            "Name": "Red",
+            "IsUnique": true,
+            "Desc": "Comes in a Red color! (4%)"
+          },
+          {
+            "Chance": 0.01,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 6,
+            "Name": "Purple",
+            "IsUnique": true,
+            "Desc": "Comes in a Purple color! (1%)"
+          }
+        ]
+      },
+      "huge": true,
+      "name": "Huge Chroma Lucki",
+      "fly": true,
+      "preventGolden": true,
+      "thumbnail": "rbxassetid://14976381547"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Chroma Lucky Block Mimic",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15282013171",
+      "preventGolden": true,
+      "huge": true,
+      "name": "Huge Chroma Lucky Block Mimic",
+      "animations": {
+        "colorVariants": [
+          {
+            "Chance": 0.35,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 1,
+            "Name": "Yellow",
+            "IsUnique": true,
+            "Desc": "Comes in a Yellow color! (35%)"
+          },
+          {
+            "Chance": 0.3,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 2,
+            "Name": "Pink",
+            "IsUnique": true,
+            "Desc": "Comes in a Pink color! (30%)"
+          },
+          {
+            "Chance": 0.2,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 3,
+            "Name": "Blue",
+            "IsUnique": true,
+            "Desc": "Comes in a Blue color! (20%)"
+          },
+          {
+            "Chance": 0.1,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 4,
+            "Name": "Orange",
+            "IsUnique": true,
+            "Desc": "Comes in an Orange color! (10%)"
+          },
+          {
+            "Chance": 0.04,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 5,
+            "Name": "Red",
+            "IsUnique": true,
+            "Desc": "Comes in a Red color! (4%)"
+          },
+          {
+            "Chance": 0.01,
+            "Magnitude": 1,
+            "Title": "Chroma",
+            "Color": null,
+            "Id": 6,
+            "Name": "Purple",
+            "IsUnique": true,
+            "Desc": "Comes in a Purple color! (1%)"
+          }
+        ]
+      },
+      "thumbnail": "rbxassetid://15282013087"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Clover Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976383249",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Clover Dragon",
+      "fly": true,
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976383366"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Clover Fairy",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16744695639",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Clover Fairy",
+      "fly": true,
+      "indexDesc": "Earned from the 2024 St. Patrick's Event!",
+      "thumbnail": "rbxassetid://16744695511"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Clover Unicorn",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976383732",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Clover Unicorn",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976383846"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Clown Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18520054270",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Clown Cat",
+      "indexDesc": "Reward in the 2024 Clown Clan Battle!",
+      "thumbnail": "rbxassetid://18520054035"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Rainbow Slime",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976531847",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Colorful Slime",
+      "indexDesc": "Found in the Huge Machine Kraken Egg!",
+      "thumbnail": "rbxassetid://14976531943"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Colorful Wisp",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16410753812",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Colorful Wisp",
+      "indexDesc": "Found inside minigame!",
+      "thumbnail": "rbxassetid://16410753529"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Comet Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976384660",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Comet Agony",
+      "fly": true,
+      "indexDesc": "Earned from comets in PSX!",
+      "thumbnail": "rbxassetid://14976384743"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Comet Cyclops",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976384911",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Comet Cyclops",
+      "fly": true,
+      "indexDesc": "Earned from comets in PSX!",
+      "thumbnail": "rbxassetid://14976385072"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cool Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976385365",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Cool Cat",
+      "indexDesc": "Found in the Event Cool Egg!",
+      "thumbnail": "rbxassetid://14976385467"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976386012",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Corgi",
+      "indexDesc": "Comes with the Corgi plush!",
+      "thumbnail": "rbxassetid://14976386115"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cosmic Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Cosmic Agony",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Cosmic Egg!",
+      "thumbnail": "rbxassetid://15201636010"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cosmic Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Cosmic Axolotl",
+      "indexDesc": "Found in the Exclusive Cosmic Egg!",
+      "thumbnail": "rbxassetid://15201636161"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cow",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976386395",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Cow",
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976386456"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Crocodile",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976387204",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Crocodile",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://14976387300"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Crowned Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281989874",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Crowned Cat",
+      "indexDesc": "Gifted to top 250 spenders on PSX!",
+      "thumbnail": "rbxassetid://15281989820"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Crowned Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281989771",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Crowned Corgi",
+      "indexDesc": "Gifted to top 50 spenders on PSX!",
+      "thumbnail": "rbxassetid://15281989661"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Crowned Pegasus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281989570",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Crowned Pegasus",
+      "indexDesc": "Gifted to top 10 spenders on PSX!",
+      "thumbnail": "rbxassetid://15281989490"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Crystal Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976388332",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Crystal Dog",
+      "indexDesc": "Found in the (Epic, Mythical) Series 1 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14976388450"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cupcake",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976388553",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Cupcake",
+      "indexDesc": "Earned from gift rewards in PSX!",
+      "thumbnail": "rbxassetid://14976389145"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cupid Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976389236",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Cupid Corgi",
+      "fly": true,
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976389349"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cyber Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16472011745",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Cyber Agony",
+      "fly": true,
+      "indexDesc": "Earned from the Tech Chest!",
+      "thumbnail": "rbxassetid://16472011675"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cyborg Capybara",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260482775",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Cyborg Capybara",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Capybara Egg!",
+      "thumbnail": "rbxassetid://15260482561"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cyborg Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976391512",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Cyborg Cat",
+      "indexDesc": "Comes with Series 2 Cyborg Cat Collector Bundle!",
+      "thumbnail": "rbxassetid://14976391620"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Cyborg Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976392440",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Cyborg Dragon",
+      "fly": true,
+      "indexDesc": "Comes with Series 2 Cyborg Dragon Collector Bundle!",
+      "thumbnail": "rbxassetid://14976392605"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Dark Lord",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18152338268",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Dark Lord",
+      "fly": true,
+      "indexDesc": "Found in the Good vs. Evil Pack!",
+      "thumbnail": "rbxassetid://18152338133"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Devil Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18256894698",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Devil Agony",
+      "fly": true,
+      "indexDesc": "Earned from the Good vs. Evil World and Evil Gifts!",
+      "thumbnail": "rbxassetid://18256894534"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Devil Dominus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18256894972",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Devil Dominus",
+      "indexDesc": "Found in the Good vs. Evil Pack!",
+      "thumbnail": "rbxassetid://18256894835"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Diamond Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976396615",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Diamond Cat",
+      "indexDesc": "Chance to get from purchasing high-end Diamond packs!",
+      "thumbnail": "rbxassetid://14976396731"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Dino Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976397095",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Dino Cat",
+      "indexDesc": "Tied to the Huge Plush merch in stores!",
+      "thumbnail": "rbxassetid://14976397288"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Dino Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18673256315",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Dino Dog",
+      "indexDesc": "Earned from the Dino Tycoon's final egg!",
+      "thumbnail": "rbxassetid://18673255790"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Disco Ball Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18458208822",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Disco Ball Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Disco Pack!",
+      "thumbnail": "rbxassetid://18458208582"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Divinus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18152335445",
+      "animations": {
+        "spinZ": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Divinus",
+      "fly": true,
+      "indexDesc": "Found in the Good vs. Evil Pack!",
+      "thumbnail": "rbxassetid://18152335113"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976397595",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Dog",
+      "indexDesc": "Comes with the Dog plush!",
+      "thumbnail": "rbxassetid://14976397743"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Doodle Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976402329",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Doodle Cat",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976402524"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Doodle Fairy",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976404659",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Doodle Fairy",
+      "fly": true,
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976404766"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Dove",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976414382",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Dove",
+      "fly": true,
+      "indexDesc": "Comes with Series 2 6-Pack Eggs! [RARE]",
+      "thumbnail": "rbxassetid://14976414513"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976414639",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Dragon",
+      "fly": true,
+      "indexDesc": "Comes with the Dragon plush!",
+      "thumbnail": "rbxassetid://14976414803"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Ducky",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976414951",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Ducky",
+      "indexDesc": "Comes with the Ducky plush!",
+      "thumbnail": "rbxassetid://14976415577"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Easter Bunny",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976566877",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Easter Bunny",
+      "indexDesc": "Found in the 2023 Easter Event in PSX!",
+      "thumbnail": "rbxassetid://14976566967"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Easter Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281989430",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Easter Cat",
+      "indexDesc": "Hatched from the 2022 Easter Event in PSX!",
+      "thumbnail": "rbxassetid://15281989384"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Easter Dominus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976417034",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Easter Dominus",
+      "indexDesc": "Earned from the 2023 Easter Gift in PSX!",
+      "thumbnail": "rbxassetid://14976417278"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Easter Yeti",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976418761",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Easter Yeti",
+      "indexDesc": "Hatched from the 2023 Easter Event in PSX!",
+      "thumbnail": "rbxassetid://14976418843"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Egg Dino",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18741936966",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Egg Dino",
+      "indexDesc": "Earned from the Dino Tycoon's final egg!",
+      "thumbnail": "rbxassetid://18741936725"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Electric Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16914837569",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Electric Cat",
+      "indexDesc": "Found in Treasure Hideout minigame!",
+      "thumbnail": "rbxassetid://16914837316"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Electric Dino",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18673256887",
+      "animations": {
+        "fadeFrames": [
+          {
+            "instant": true,
+            "duration": 1,
+            "iconThumbnail": "rbxassetid://18671776352",
+            "textureName": "frame1"
+          },
+          {
+            "instant": true,
+            "duration": 2,
+            "iconThumbnail": "rbxassetid://18671776118",
+            "textureName": "frame2"
+          }
+        ]
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Electric Dino",
+      "indexDesc": "Earned from the Dino Gifts!",
+      "thumbnail": "rbxassetid://18673256682"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Elegant Eagle",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18556265842",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Elegant Eagle",
+      "fly": true,
+      "indexDesc": "Earned from Millionaire World's huge raffles!",
+      "thumbnail": "rbxassetid://18556265741"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Elephant",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976419386",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Elephant",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://14976419563"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Elf Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976419700",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Elf Cat",
+      "indexDesc": "Found in the Christmas 2022 Stocking in PSX!",
+      "thumbnail": "rbxassetid://14976419865"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Elf Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976420000",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Elf Dog",
+      "indexDesc": "Found in the Christmas 2022 Stocking in PSX!",
+      "thumbnail": "rbxassetid://14976420144"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Emoji Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16044352051",
+      "animations": {
+        "fadeFrames": [
+          {
+            "instant": true,
+            "duration": 3,
+            "iconThumbnail": "rbxassetid://16047450864",
+            "textureName": "frame1"
+          },
+          {
+            "instant": true,
+            "duration": 1,
+            "iconThumbnail": "rbxassetid://16047451474",
+            "textureName": "frame2"
+          },
+          {
+            "instant": true,
+            "duration": 1,
+            "iconThumbnail": "rbxassetid://16047451214",
+            "textureName": "frame3"
+          },
+          {
+            "instant": true,
+            "duration": 5,
+            "iconThumbnail": "rbxassetid://16047451035",
+            "textureName": "frame4"
+          },
+          {
+            "instant": true,
+            "duration": 1,
+            "iconThumbnail": "rbxassetid://16047451214",
+            "textureName": "frame3"
+          },
+          {
+            "instant": true,
+            "duration": 1,
+            "iconThumbnail": "rbxassetid://16047451474",
+            "textureName": "frame2"
+          }
+        ],
+        "idleActionAnimations": [
+          [
+            "LookAround",
+            0.6
+          ]
+        ],
+        "customAnimations": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Emoji Cat",
+      "indexDesc": "Found in the Exclusive Emoji Egg!",
+      "thumbnail": "rbxassetid://16047450864"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Emoji Monkey",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16044355802",
+      "animations": {
+        "fadeFrames": [
+          {
+            "instant": true,
+            "duration": 2,
+            "iconThumbnail": "rbxassetid://16047450351",
+            "textureName": "frame1"
+          },
+          {
+            "instant": true,
+            "duration": 3,
+            "iconThumbnail": "rbxassetid://16047450651",
+            "textureName": "frame2"
+          }
+        ],
+        "idleActionAnimations": [
+          [
+            "MonkeyBackflip",
+            1
+          ]
+        ],
+        "customAnimations": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Emoji Monkey",
+      "indexDesc": "Found in the Exclusive Emoji Egg!",
+      "thumbnail": "rbxassetid://16047450351"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Empyrean Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976420828",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Empyrean Agony",
+      "fly": true,
+      "indexDesc": "Comes with Series 2 Fantasy Chest Plush!",
+      "thumbnail": "rbxassetid://14976421040"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Empyrean Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976421238",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Empyrean Axolotl",
+      "fly": true,
+      "indexDesc": "Reward in the 2024 Achievements Clan Battle!",
+      "thumbnail": "rbxassetid://14976421410"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Enchanted Deer",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976423098",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Enchanted Deer",
+      "indexDesc": "Comes with the Series 1 Grey Cat Collector Bundle!",
+      "thumbnail": "rbxassetid://14976423228"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Error Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976424036",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Error Cat",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976424262"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Evil Imp",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18150534263",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Evil Imp",
+      "fly": true,
+      "indexDesc": "Earned from the Good vs. Evil World and Evil Gifts!",
+      "thumbnail": "rbxassetid://18150534002"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Evolved Cupcake",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976425152",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Evolved Cupcake",
+      "indexDesc": "Earned from evolving Huge Cupcakes in PSX!",
+      "evolved": true,
+      "thumbnail": "rbxassetid://14976425356"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Evolved Hacked Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976425481",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Evolved Hacked Cat",
+      "indexDesc": "Earned from evolving Huge Hacked Cats in PSX!",
+      "evolved": true,
+      "thumbnail": "rbxassetid://14976425579"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Evolved Hell Rock",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976425729",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Evolved Hell Rock",
+      "indexDesc": "Earned from evolving Huge Hell Rocks in PSX!",
+      "evolved": true,
+      "thumbnail": "rbxassetid://14976425869"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Evolved King Cobra",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976425978",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Evolved King Cobra",
+      "indexDesc": "Earned from evolving Huge King Cobras in PSX!",
+      "evolved": true,
+      "thumbnail": "rbxassetid://14976426069"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Evolved Peacock",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976426244",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Evolved Peacock",
+      "indexDesc": "Earned from evolving Huge Peacocks in PSX!",
+      "evolved": true,
+      "thumbnail": "rbxassetid://14976426399"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Evolved Pixel Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976426523",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Evolved Pixel Cat",
+      "indexDesc": "Earned from evolving Huge Pixel Cats in PSX!",
+      "evolved": true,
+      "thumbnail": "rbxassetid://14976426599"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Evolved Pterodactyl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976426958",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Evolved Pterodactyl",
+      "evolved": true,
+      "fly": true,
+      "indexDesc": "Earned from evolving Huge Pterodactyls in PSX!",
+      "thumbnail": "rbxassetid://14976427082"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Exquisite Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976427212",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Exquisite Cat",
+      "indexDesc": "Found in the (Legendary, Mythical) Series 2 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14976427289"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Exquisite Parrot",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976427618",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Exquisite Parrot",
+      "hideSerial": true,
+      "fly": true,
+      "indexDesc": "Found in the (Legendary, Mythical) Series 2 Merch Gifts!",
+      "thumbnail": "rbxassetid://14976427729"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Fairy",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976427804",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Fairy",
+      "fly": true,
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976428656"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Festive Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281989314",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Festive Cat",
+      "indexDesc": "From the 2021 Insane Christmas Exclusive Egg!",
+      "thumbnail": "rbxassetid://15281989250"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Fire Horse",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15480654604",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Fire Horse",
+      "indexDesc": "Found in Chest Rush minigame!",
+      "thumbnail": "rbxassetid://15480654527"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Firefighter Dalmation",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976432733",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Firefighter Dalmatian",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976432950"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Firefly",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16744676672",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Firefly",
+      "fly": true,
+      "indexDesc": "Obtained as a reward from the Adventurer Store in Area 140!",
+      "thumbnail": "rbxassetid://16744676508"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Flex Fluffy Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18127488650",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Flex Fluffy Cat",
+      "indexDesc": "Found in the Exclusive Flex Egg!",
+      "thumbnail": "rbxassetid://18127488650"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Flex Tiger",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18127488955",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Flex Tiger",
+      "indexDesc": "Found in the Exclusive Flex Egg!",
+      "thumbnail": "rbxassetid://18127488955"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Floppa",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976434355",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Floppa",
+      "indexDesc": "Found in the Exclusive Original Egg!",
+      "thumbnail": "rbxassetid://14976434470"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Fluffy Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15803982279",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Fluffy Cat",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://15803982174"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Forest Wyvern",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976435681",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Forest Wyvern",
+      "fly": true,
+      "indexDesc": "Found in one of the first non-tradable Exclusive Eggs!",
+      "thumbnail": "rbxassetid://14976435839"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Fossil Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976435952",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Fossil Dragon",
+      "fly": true,
+      "indexDesc": "Found in Digsite!",
+      "thumbnail": "rbxassetid://14976436145"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Fox",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976436252",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Fox",
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976436421"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Fragmented Dominus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17421845769",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Fragmented Dominus",
+      "indexDesc": "Reward in the 2024 Fragmented Clan Battle!",
+      "thumbnail": "rbxassetid://17421845704"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Gamer Shiba",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976439104",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Gamer Shiba",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976439240"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Gargoyle Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976439736",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Gargoyle Dragon",
+      "fly": true,
+      "indexDesc": "Found in one of the first non-tradable Exclusive Eggs!",
+      "thumbnail": "rbxassetid://14976439876"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Gecko",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976440435",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Gecko",
+      "indexDesc": "Found in the Huge Machine Kraken Egg!",
+      "thumbnail": "rbxassetid://14976440578"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Ghost",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976440787",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Ghost",
+      "indexDesc": "Found in Series 2 Lucky Block 4-Pack Playset or Collector Clips!",
+      "thumbnail": "rbxassetid://14976441222"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Giraffe",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976442477",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Giraffe",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://14976442623"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Gleebo The Alien",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976442869",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Gleebo The Alien",
+      "indexDesc": "Comes with the Series 1 Deluxe Tech Plush!",
+      "thumbnail": "rbxassetid://14976443059"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Glitched Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16468736159",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Glitched Cat",
+      "indexDesc": "Found in Chest Raid minigame!",
+      "thumbnail": "rbxassetid://16468736057"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Goblin",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976446054",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Goblin",
+      "indexDesc": "Found in the Huge Machine Kraken Egg!",
+      "thumbnail": "rbxassetid://14976446202"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Good vs Evil Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18155109776",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Good vs Evil Cat",
+      "fly": true,
+      "indexDesc": "Earned from Good vs. Evil Gifts!",
+      "thumbnail": "rbxassetid://18155109260"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Good vs Evil Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18256895227",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Good vs Evil Dragon",
+      "fly": true,
+      "indexDesc": "Earned from Good vs. Evil Diamond Egg!",
+      "thumbnail": "rbxassetid://18256895106"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Green Balloon Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976446836",
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Green Balloon Cat",
+      "preventGolden": true,
+      "fly": true,
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976447015"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Grim Reaper",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976567099",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Grim Reaper",
+      "fly": true,
+      "indexDesc": "Hatched during the 2022 Halloween Event in PSX!",
+      "thumbnail": "rbxassetid://14976567210"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Grinch Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976448160",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Grinch Cat",
+      "indexDesc": "Found in the Exclusive Jolly Egg!",
+      "thumbnail": "rbxassetid://14976448309"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hacked Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976449416",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Hacked Cat",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976449581"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hacker Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17769626927",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Hacker Axolotl",
+      "indexDesc": "Earned from the Hacker Chest and Hacker Pack!",
+      "thumbnail": "rbxassetid://17769626736"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Happy Computer",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16472013505",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Happy Computer",
+      "fly": true,
+      "indexDesc": "Earned from the limited-time Happy Computer Event!",
+      "thumbnail": "rbxassetid://16472013395"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Happy Rock",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976450755",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Happy Rock",
+      "indexDesc": "Earned from the limited-time Happy Rock Event in PSX!",
+      "thumbnail": "rbxassetid://14976450873"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Heart Balloon Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16306792763",
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Heart Balloon Cat",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Valentine's Egg!",
+      "thumbnail": "rbxassetid://16306792637"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hell Rock",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976455275",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Hell Rock",
+      "indexDesc": "Earned from the limited-time Hell Rock Event in PSX!",
+      "thumbnail": "rbxassetid://14976455394"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hi-Tech Tiger",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16472007123",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Hi-Tech Tiger",
+      "indexDesc": "Earned from the limited-time Huge Spinny Wheel!",
+      "thumbnail": "rbxassetid://16472006999"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hippo",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976456310",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Hippo",
+      "indexDesc": "Comes with Series 3 Dalmatian Collector Bundle!",
+      "thumbnail": "rbxassetid://14976456459"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hippomelon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976456566",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Hippomelon",
+      "indexDesc": "Found in the Exclusive Fruit Egg!",
+      "thumbnail": "rbxassetid://14976456685"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Holiday Pegasus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15716049676",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Holiday Pegasus",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Xmas Egg!",
+      "thumbnail": "rbxassetid://15716049550"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hologram Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976456793",
+      "animations": {
+        "flyHeightChange": 0
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Hologram Axolotl",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Hologram Egg!",
+      "thumbnail": "rbxassetid://14976456919"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hologram Shark",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976457245",
+      "animations": {
+        "flyHeightChange": 0
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Hologram Shark",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Hologram Egg!",
+      "thumbnail": "rbxassetid://14976457374"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Holographic Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17515615360",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Holographic Cat",
+      "indexDesc": "Earned from the Void Chest!",
+      "thumbnail": "rbxassetid://17515615256"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hot Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16250978273",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Hot Dog",
+      "indexDesc": "Tied to the Huge Plush merch in stores!",
+      "thumbnail": "rbxassetid://16250978135"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hoverboard Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15542598865",
+      "animations": {
+        "flyHeight": 0.3,
+        "flyHeightChange": 0.25
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Hoverboard Cat",
+      "fly": true,
+      "indexDesc": "Comes with the exclusive Pet Rugs merch!",
+      "thumbnail": "rbxassetid://15542598827"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Husky",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976460376",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Husky",
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976460483"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Hydra Dino",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18741937315",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Hydra Dino",
+      "indexDesc": "Found in the Dino Pack!",
+      "thumbnail": "rbxassetid://18741937148"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Inferno Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976463072",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Inferno Cat",
+      "indexDesc": "Found in the Exclusive Elemental Egg!",
+      "thumbnail": "rbxassetid://14976463498"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Inferno Dominus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976463700",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Inferno Dominus",
+      "indexDesc": "Found in the Exclusive Dominus Egg!",
+      "thumbnail": "rbxassetid://14976463903"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Inferno Stealth Bobcat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18644411976",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Inferno Stealth Bobcat",
+      "indexDesc": "Found in the (Rare, Mythical) Series 3 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://18644411865"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Inferno Stealth Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18644412228",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Inferno Stealth Cat",
+      "indexDesc": "Found in the (Basic, Rare, Mythical) Series 3 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://18644412090"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Jelly Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16483328226",
+      "animations": {
+        "replacementPool": [
+          [
+            1,
+            0.5
+          ],
+          [
+            2,
+            0.2
+          ],
+          [
+            3,
+            0.15
+          ],
+          [
+            4,
+            0.1
+          ],
+          [
+            5,
+            0.05
+          ]
+        ],
+        "jelly": true,
+        "replacements": [
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Lootbag inside! (50%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Enchant Book inside! (20%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Crystal Chest inside! (15%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Present inside! (10%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Pinata inside! (5%)"
+          }
+        ]
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Jelly Axolotl",
+      "indexDesc": "Found in the Exclusive Super Jelly Egg!",
+      "thumbnail": "rbxassetid://16483328135"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Jelly Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976465768",
+      "animations": {
+        "replacementPool": [
+          [
+            1,
+            0.5
+          ],
+          [
+            2,
+            0.2
+          ],
+          [
+            3,
+            0.15
+          ],
+          [
+            4,
+            0.1
+          ],
+          [
+            5,
+            0.05
+          ]
+        ],
+        "jelly": true,
+        "replacements": [
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Coin inside! (50%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with Diamonds inside! (20%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Chest inside! (15%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Lucky Block inside! (10%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Maskot Pet inside! (5%)"
+          }
+        ]
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Jelly Corgi",
+      "indexDesc": "Found in the Exclusive Jelly Egg!",
+      "thumbnail": "rbxassetid://14976465933"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Jelly Monkey",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16495814288",
+      "animations": {
+        "replacementPool": [
+          [
+            1,
+            0.5
+          ],
+          [
+            2,
+            0.2
+          ],
+          [
+            3,
+            0.15
+          ],
+          [
+            4,
+            0.1
+          ],
+          [
+            5,
+            0.05
+          ]
+        ],
+        "jelly": true,
+        "replacements": [
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Lootbag inside! (50%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Enchant Book inside! (20%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Crystal Chest inside! (15%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Present inside! (10%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Pinata inside! (5%)"
+          }
+        ]
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Jelly Monkey",
+      "indexDesc": "Found in the Exclusive Super Jelly Egg!",
+      "thumbnail": "rbxassetid://16495814071"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Jelly Piggy",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976467322",
+      "animations": {
+        "replacementPool": [
+          [
+            1,
+            0.5
+          ],
+          [
+            2,
+            0.2
+          ],
+          [
+            3,
+            0.15
+          ],
+          [
+            4,
+            0.1
+          ],
+          [
+            5,
+            0.05
+          ]
+        ],
+        "jelly": true,
+        "replacements": [
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Coin inside! (50%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with Diamonds inside! (20%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Chest inside! (15%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Lucky Block inside! (10%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Maskot Pet inside! (5%)"
+          }
+        ]
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Jelly Piggy",
+      "indexDesc": "Found in the Exclusive Jelly Egg!",
+      "thumbnail": "rbxassetid://14976467450"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Jester Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16746769191",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Jester Dog",
+      "indexDesc": "Found in the Exclusive Superhero Egg!",
+      "thumbnail": "rbxassetid://16746769132"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Jolly Narwhal",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976469002",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Jolly Narwhal",
+      "indexDesc": "Found in the 2023 Titanic Present!",
+      "thumbnail": "rbxassetid://14976825062"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Jolly Penguin",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976469443",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Jolly Penguin",
+      "indexDesc": "Hatched from the 2022 Christmas Event in PSX!",
+      "thumbnail": "rbxassetid://14976469674"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Kangaroo",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17208308091",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Kangaroo",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://17208307820"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Kawaii Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976470496",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Kawaii Cat",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976470713"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Kawaii Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976470786",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Kawaii Dragon",
+      "fly": true,
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976470932"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge King Cobra",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976472084",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge King Cobra",
+      "indexDesc": "Found in the Huge Machine Angelus Egg!",
+      "thumbnail": "rbxassetid://14976472289"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Kitsune Fox",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18352502702",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Kitsune Fox",
+      "indexDesc": "Found in The Forever Pack!",
+      "thumbnail": "rbxassetid://18352502490"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Knife Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976472430",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Knife Cat",
+      "indexDesc": "Found in the Exclusive Meme Egg!",
+      "thumbnail": "rbxassetid://14976472648"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Knight Beagle",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15804006428",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Knight Beagle",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://15804006339"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Koi Fish",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16179890776",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Koi Fish",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://16179890678"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Kraken",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976473129",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Kraken",
+      "indexDesc": "Found in the Huge Machine Kraken Egg!",
+      "thumbnail": "rbxassetid://14976473284"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Leprechaun Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976475436",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Leprechaun Cat",
+      "indexDesc": "Hatched from the 2023 St. Patrick's Event in PSX!",
+      "thumbnail": "rbxassetid://14976475596"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Love Lamb",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976476867",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Love Lamb",
+      "fly": true,
+      "indexDesc": "Hatched from the 2023 Valentine's Event in PSX!",
+      "thumbnail": "rbxassetid://14976476986"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Luau Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976477689",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Luau Cat",
+      "indexDesc": "Hatched from the Tiki Egg in PSX!",
+      "thumbnail": "rbxassetid://14976477787"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Lucki",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976478194",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Lucki",
+      "fly": true,
+      "indexDesc": "Earned from the Lucky Block Event in PSX!",
+      "thumbnail": "rbxassetid://14976484952"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Lucki Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976478315",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Lucki Agony",
+      "fly": true,
+      "indexDesc": "Earned from the Lucky Block Event in PSX!",
+      "thumbnail": "rbxassetid://14976478543"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Dominus Lucki",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976479062",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Lucki Dominus",
+      "fly": true,
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976479237"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Lucky Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976485056",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Lucky Cat",
+      "indexDesc": "Found in one of the first non-tradable Exclusive Eggs!",
+      "thumbnail": "rbxassetid://14976485216"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Lumi Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16410740693",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Lumi Axolotl",
+      "indexDesc": "Found in Secret Rooms!",
+      "thumbnail": "rbxassetid://16410740491"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Lunar Moth",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17028306770",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Lunar Moth",
+      "fly": true,
+      "indexDesc": "Found in the Global Event Gift!",
+      "thumbnail": "rbxassetid://17028306654"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Luxe Peacock",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18556267433",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Luxe Peacock",
+      "indexDesc": "Found in the Millionaire Pack!",
+      "thumbnail": "rbxassetid://18556267256"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge M-10 PROTOTYPE",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260482379",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge M-10 PROTOTYPE",
+      "fly": true,
+      "indexDesc": "Hatched from the Quest Egg in PSX!",
+      "thumbnail": "rbxassetid://15260482198"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Mantis Shrimp",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976486574",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Mantis Shrimp",
+      "indexDesc": "Found in the Huge Machine Butterfly Egg!",
+      "thumbnail": "rbxassetid://14976486671"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Marshmallow Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976486782",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Marshmallow Agony",
+      "fly": true,
+      "indexDesc": "Earned from the 2023 Easter Gift in PSX!",
+      "thumbnail": "rbxassetid://14976486981"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Masked Fox",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17749184301",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Masked Fox",
+      "indexDesc": "Found in the Hacker Pack!",
+      "thumbnail": "rbxassetid://17749184083"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Masked Owl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976487383",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Masked Owl",
+      "fly": true,
+      "indexDesc": "Found in Series 2 Core 1-Packs! [RARE]",
+      "thumbnail": "rbxassetid://14976487652"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Matrix Monkey",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17861579071",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Matrix Monkey",
+      "indexDesc": "Found in the Virus Pack!",
+      "thumbnail": "rbxassetid://17861579273"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Mech Dino",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18673257211",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Mech Dino",
+      "indexDesc": "Found in the Dino Pack!",
+      "thumbnail": "rbxassetid://18673257007"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Meebo in a Spaceship",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976488209",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Meebo in a Spaceship",
+      "fly": true,
+      "indexDesc": "Earned from Daycare!",
+      "thumbnail": "rbxassetid://14976488429"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Mermaid Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976489368",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Mermaid Cat",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://14976489487"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Monkey",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976491518",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Monkey",
+      "indexDesc": "Comes with the Monkey plush!",
+      "thumbnail": "rbxassetid://14976491927"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Mosaic Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976493213",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Mosaic Corgi",
+      "indexDesc": "Found in the (Epic, Mythical) Series 1 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14976493326"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Mosaic Griffin",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976494247",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Mosaic Griffin",
+      "hideSerial": true,
+      "fly": true,
+      "indexDesc": "Found in the (Legendary, Mythical) Series 1 Merch Gifts!",
+      "thumbnail": "rbxassetid://14976494343"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Mosaic Lamb",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976494461",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Mosaic Lamb",
+      "indexDesc": "Found in the (Epic, Mythical) Series 2 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14976494608"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Mr Krabs",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18313092725",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Mr. Krabs",
+      "indexDesc": "Found in the Exclusive SpongeBob Egg!",
+      "thumbnail": "rbxassetid://18313092725"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Mrs. Claws",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976494731",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Mrs. Claws",
+      "indexDesc": "Hatched from eggs in the 2022 Christmas Event PSX!",
+      "thumbnail": "rbxassetid://14976494867"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Mushroom Raccoon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976495433",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Mushroom Raccoon",
+      "indexDesc": "Found in the Huge Machine Butterfly Egg!",
+      "thumbnail": "rbxassetid://14976495649"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Mystical Fox",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976496147",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Mystical Fox",
+      "indexDesc": "Reward in the 2024 Raid Clan Battle!",
+      "thumbnail": "rbxassetid://14976496299"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Neon Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976497513",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Neon Cat",
+      "indexDesc": "Found in the Exclusive Neon Egg!",
+      "thumbnail": "rbxassetid://14976497661"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Neon Griffin",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976498154",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Neon Griffin",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Neon Egg!",
+      "thumbnail": "rbxassetid://14976498238"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Neon Twilight Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260481992",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Neon Twilight Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Neon Twilight Egg!",
+      "thumbnail": "rbxassetid://15260481819"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Neon Twilight Wolf",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260481663",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Neon Twilight Wolf",
+      "indexDesc": "Found in the Exclusive Neon Twilight Egg!",
+      "thumbnail": "rbxassetid://15260481429"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Night Terror Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17451173125",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Night Terror Cat",
+      "indexDesc": "Earned from the 2024 Deep Backrooms Event!",
+      "thumbnail": "rbxassetid://17451173023"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Nightfall Pegasus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260481257",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Nightfall Pegasus",
+      "hideSerial": true,
+      "fly": true,
+      "indexDesc": "Found in the (Legendary, Mythical) Series 1 Merch Gifts!",
+      "thumbnail": "rbxassetid://15260481050"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Nightfall Wolf",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260480874",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Nightfall Wolf",
+      "indexDesc": "Found in the (Legendary, Mythical) Series 1 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://15260480737"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Nightmare Kraken",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976502045",
+      "animations": {
+        "flyHeightChange": 0,
+        "swerve": true,
+        "swerveMaxAngle": 60,
+        "flyHeight": 0.025,
+        "swerveAggression": 0.2
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Nightmare Kraken",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Nightmare Egg!",
+      "thumbnail": "rbxassetid://14976502236"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Nightmare Spirit",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976825201",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Nightmare Spirit",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Nightmare Egg!",
+      "thumbnail": "rbxassetid://14976825431"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Ninja Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976503028",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Ninja Axolotl",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976503103"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Old Wizard Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18644412681",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Old Wizard Corgi",
+      "indexDesc": "Found in the (Legendary, Mythical) Series 3 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://18644412561"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Old Wizard Owl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18644413103",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Old Wizard Owl",
+      "hideSerial": true,
+      "fly": true,
+      "indexDesc": "Found in the (Legendary, Mythical) Series 3 Merch Gifts!",
+      "thumbnail": "rbxassetid://18644413008"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Orange Balloon Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976505626",
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Orange Balloon Cat",
+      "preventGolden": true,
+      "fly": true,
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976505912"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Orca",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976506229",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Orca",
+      "indexDesc": "Found in the Huge Machine Angelus Egg!",
+      "thumbnail": "rbxassetid://14976506366"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Otter",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976506504",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Otter",
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976506594"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Owl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15809136979",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Owl",
+      "fly": true,
+      "indexDesc": "Reward in the 2024 New Year's Clan Battle!",
+      "thumbnail": "rbxassetid://15809137117"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Painted Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976507026",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Painted Cat",
+      "indexDesc": "Earned from the 2023 Easter Event in PSX!",
+      "thumbnail": "rbxassetid://14976507206"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Party Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976508540",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Party Axolotl",
+      "indexDesc": "Hatched from Hype Gifts in PSX!",
+      "thumbnail": "rbxassetid://14976508713"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Party Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976508831",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Party Cat",
+      "indexDesc": "Hatched from 2023 Anniversary Gifts in PSX!",
+      "thumbnail": "rbxassetid://14976508941"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Party Crown Ducky",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976509358",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Party Crown Ducky",
+      "indexDesc": "Hatched from 2023 New Year's Gifts in PSX and 2024 New Year's Gifts in PS99!",
+      "thumbnail": "rbxassetid://14976509521"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Party Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976509888",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Party Dog",
+      "indexDesc": "Hatched from Hype Gifts in PSX!",
+      "thumbnail": "rbxassetid://14976510103"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Party Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16901792834",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Party Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Hype Egg every update!",
+      "thumbnail": "rbxassetid://16901792712"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Party Monkey",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976510588",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Party Monkey",
+      "indexDesc": "Hatched from 2023 Anniversary Gifts in PSX!",
+      "thumbnail": "rbxassetid://14976510684"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Party Penguin",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976511102",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Party Penguin",
+      "indexDesc": "Hatched from Hype Gifts in PSX!",
+      "thumbnail": "rbxassetid://14976511281"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pastel Elephant",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16498746040",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Pastel Elephant",
+      "indexDesc": "Found in the Huge Machine Blurred Dominus Egg!",
+      "thumbnail": "rbxassetid://16498745846"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pastel Sock Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976513568",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Pastel Sock Dragon",
+      "fly": true,
+      "indexDesc": "Comes with the Sock Dragon plush!",
+      "thumbnail": "rbxassetid://14976513814"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Patrick Star",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18313092558",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Patrick Star",
+      "indexDesc": "Found in the Exclusive SpongeBob Egg!",
+      "thumbnail": "rbxassetid://18313092558"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Peacock",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976514126",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Peacock",
+      "indexDesc": "Earned from Free Gifts in PSX!",
+      "thumbnail": "rbxassetid://14976514269"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pegasus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976514449",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Pegasus",
+      "fly": true,
+      "indexDesc": "Tied to the now defunct NFT project!",
+      "thumbnail": "rbxassetid://14976514552"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Peppermint Angelus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15716049351",
+      "animations": {
+        "angelusSpin": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Peppermint Angelus",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Xmas Egg!",
+      "thumbnail": "rbxassetid://15716049163"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pineapple Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976517135",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Pineapple Cat",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976517235"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pineapple Monkey",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17689399677",
+      "indexObtainable": true,
+      "fromWorldNumber": 3,
+      "fromZoneNumber": 209,
+      "huge": true,
+      "cachedPower": [
+        5391647962904
+      ],
+      "name": "Huge Pineapple Monkey",
+      "indexDesc": "Earned from the Summer Obby World and Summer Gifts!",
+      "thumbnail": "rbxassetid://17689399533",
+      "fromEgg": "Summer Sun Egg"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pink Balloon Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976517320",
+      "tradable": false,
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": true,
+      "hideExists": true,
+      "huge": true,
+      "name": "Huge Pink Balloon Cat",
+      "fly": true,
+      "indexDesc": "Tied to the Pink Balloon Cat Roblox Limited!",
+      "ugc": true,
+      "thumbnail": "rbxassetid://14976517430"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pink Marshmallow Chick",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976517894",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Pink Marshmallow Chick",
+      "indexDesc": "Comes with the Easter Chick plush!",
+      "thumbnail": "rbxassetid://14976517974"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pirate Parrot",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976518722",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Pirate Parrot",
+      "fly": true,
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976518880"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pixel Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976518950",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Pixel Cat",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976519049"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pixel Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976519334",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Pixel Corgi",
+      "indexDesc": "Comes with Series 2 Pixel Corgi Collector Bundle!",
+      "thumbnail": "rbxassetid://14976519576"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pixel Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976520596",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Pixel Dragon",
+      "fly": true,
+      "indexDesc": "Comes with Series 2 Ultimate Bundle Pixel Chest!",
+      "thumbnail": "rbxassetid://14976521054"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pixel Shark",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17024851744",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Pixel Shark",
+      "indexDesc": "Reward in the 2024 Pixel Clan Battle!",
+      "thumbnail": "rbxassetid://17024845317"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pixel Wolf",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976522526",
+      "indexObtainable": true,
+      "hidden": false,
+      "huge": true,
+      "name": "Huge Pixel Wolf",
+      "indexDesc": "Comes with Series 2 Lunch Bag DLC!",
+      "thumbnail": "rbxassetid://14976522632"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pixie Fox",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17835929193",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Pixie Fox",
+      "indexDesc": "Found in the Huge Machine Butterfly Egg!",
+      "thumbnail": "rbxassetid://17835929068"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pinata Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976516168",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Pi\u00f1ata Cat",
+      "indexDesc": "Earned from the Cinco de Mayo Event in PSX!",
+      "thumbnail": "rbxassetid://14976516399"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Plague Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17375065330",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Plague Dragon",
+      "fly": true,
+      "indexDesc": "Earned from the 2024 Backrooms Event!",
+      "thumbnail": "rbxassetid://17375065126"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Police Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17588547900",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Police Cat",
+      "indexDesc": "Earned from the Police HQ Egg, Bank Heist Minigame, and Cops vs. Robbers Pack!",
+      "thumbnail": "rbxassetid://17588549479"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976525395",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Pony",
+      "indexDesc": "Found in an original non-tradable Exclusive Egg!",
+      "thumbnail": "rbxassetid://14976525582"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pop Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976525736",
+      "animations": {
+        "flipbookAnimationGold": [
+          "rbxassetid://12442921397",
+          "rbxassetid://12445579992"
+        ],
+        "flipbookAnimationSpeed": 0.15,
+        "flipbookAnimation": [
+          "rbxassetid://12442921582",
+          "rbxassetid://12445580091"
+        ]
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Pop Cat",
+      "indexDesc": "Found in the Exclusive Meme Egg!",
+      "thumbnail": "rbxassetid://14976525879"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Poseidon Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15477703494",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Poseidon Corgi",
+      "indexDesc": "Earned through fishing!",
+      "thumbnail": "rbxassetid://15477703422"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Present Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15637230140",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Present Cat",
+      "indexDesc": "Reward in the 2023 Festive Clan Battle!",
+      "thumbnail": "rbxassetid://15637230004"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Present Chest Mimic",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976526959",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Present Chest Mimic",
+      "indexDesc": "Found in the Exclusive Jolly Egg!",
+      "thumbnail": "rbxassetid://14976527111"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Prickly Panda",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976527196",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Prickly Panda",
+      "indexDesc": "Found in the Exclusive Elemental Egg!",
+      "thumbnail": "rbxassetid://14976527289"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Prison Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17526083618",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Prison Cat",
+      "indexDesc": "Earned from the Prison Chest!",
+      "thumbnail": "rbxassetid://17526083509"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pristine Snake",
+    "category": "Huge",
+    "configData": {
+      "indexObtainable": true,
+      "isFromLastZone": true,
+      "goldenThumbnail": "rbxassetid://18556268101",
+      "animations": {
+        "vertexColorAnim": [
+          {
+            "Time": 0,
+            "Value": null
+          },
+          {
+            "Time": 0.5,
+            "Value": null
+          },
+          {
+            "Time": 1,
+            "Value": null
+          }
+        ],
+        "vertexColorAnimSpeed": 0.5
+      },
+      "fromWorldNumber": 3,
+      "fromZoneNumber": 219,
+      "huge": true,
+      "cachedPower": [
+        17406469529035
+      ],
+      "name": "Huge Pristine Snake",
+      "indexDesc": "Earned from Millionaire World's final egg!",
+      "thumbnail": "rbxassetid://18556267952",
+      "fromEgg": "Luxe Egg"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Propeller Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15340315690",
+      "animations": {
+        "swerveAggression": 1,
+        "swerve": true,
+        "swerveMaxAngle": 60
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Propeller Cat",
+      "fly": true,
+      "indexDesc": "Earned from the Spinny Wheel!",
+      "thumbnail": "rbxassetid://15340315459"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pterodactyl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976527711",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Pterodactyl",
+      "fly": true,
+      "indexDesc": "Found in the Huge Machine Angelus Egg!",
+      "thumbnail": "rbxassetid://14976527837"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pufferfish",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976528058",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Pufferfish",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976528215"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Pumpkin Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976529068",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Pumpkin Cat",
+      "indexDesc": "Earned from the 2021, 2022, and 2023 Halloween Event in PSX!",
+      "thumbnail": "rbxassetid://14976529226"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Punksky",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976529681",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Punksky",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://14976529792"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Purple Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16251004477",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Purple Dragon",
+      "fly": true,
+      "indexDesc": "Tied to the Huge Plush merch in stores!",
+      "thumbnail": "rbxassetid://16251004392"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Puurple Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17450362996",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Puurple Cat",
+      "indexDesc": "Found in the Backrooms Pack!",
+      "thumbnail": "rbxassetid://17450362839"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Rainbow Unicorn",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976532056",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Rainbow Unicorn",
+      "indexDesc": "Found in one of the first non-tradable Exclusive Eggs!",
+      "thumbnail": "rbxassetid://14976532168"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Raptor",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18758705217",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Raptor",
+      "indexDesc": "Earned from the Dino Tycoon's secret lab rooms!",
+      "thumbnail": "rbxassetid://18758705093"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Rave Butterfly",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18458208354",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Rave Butterfly",
+      "fly": true,
+      "indexDesc": "Earned from the Lucky Tile Event's final egg!",
+      "thumbnail": "rbxassetid://18458208075"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Rave Jaguar",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18458263785",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Rave Jaguar",
+      "indexDesc": "Earned from the Lucky Tile Event!",
+      "thumbnail": "rbxassetid://18458263548"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Rave Meebo in a Spaceship",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18351654949",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Rave Meebo in a Spaceship",
+      "fly": true,
+      "indexDesc": "Found in the Rave Pack!",
+      "thumbnail": "rbxassetid://18351654787"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Rave Troll",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18351655259",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Rave Troll",
+      "indexDesc": "Earned from Rave Gifts!",
+      "thumbnail": "rbxassetid://18351655132"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Red Fluffy",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976532871",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Red Fluffy",
+      "indexDesc": "Found in the Huge Machine Blurred Dominus Egg!",
+      "thumbnail": "rbxassetid://14976533036"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Red Panda",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976533174",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Red Panda",
+      "indexDesc": "Tied to the Huge Plush merch in stores!",
+      "thumbnail": "rbxassetid://14976533293"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Redstone Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976533446",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Redstone Cat",
+      "indexDesc": "Found in the Exclusive Crystal Egg!",
+      "thumbnail": "rbxassetid://14976533671"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Reindeer Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281989183",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Reindeer Axolotl",
+      "indexDesc": "Comes with the Reindeer Axolotl plush!",
+      "thumbnail": "rbxassetid://15281989034"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Reindeer Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281988902",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Reindeer Dog",
+      "indexDesc": "Comes with the Reindeer Dog plush!",
+      "thumbnail": "rbxassetid://15281988831"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Rich Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16744715532",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Rich Cat",
+      "indexDesc": "Found in The Forever Pack!",
+      "thumbnail": "rbxassetid://16744715368"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Robber Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17604035769",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Robber Cat",
+      "indexDesc": "Found in the Cops vs. Robbers Pack!",
+      "thumbnail": "rbxassetid://17604035571"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Robber Pug",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15804001569",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Robber Pug",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://15804001482"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Safari Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976538517",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Safari Cat",
+      "indexDesc": "Earned from Scavanger Eggs in PSX!",
+      "thumbnail": "rbxassetid://14976538607"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Safari Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976538687",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Safari Dog",
+      "indexDesc": "Earned from Scavanger Eggs in PSX!",
+      "thumbnail": "rbxassetid://14976538804"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Safety Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18127301164",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Safety Cat",
+      "indexDesc": "Reward in the 2024 Safety Clan Battle!",
+      "thumbnail": "rbxassetid://18127300990"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sage Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18256895564",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Sage Axolotl",
+      "indexDesc": "Earned from the Good vs. Evil World and Good Gifts!",
+      "thumbnail": "rbxassetid://18256895424"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sailor Shark",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976539918",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Sailor Shark",
+      "indexDesc": "Hatched from the Sailor Egg in PSX!",
+      "thumbnail": "rbxassetid://14976540139"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Samurai Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976541105",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Samurai Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976541241"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sandcastle Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976541695",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Sandcastle Cat",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976541813"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Santa Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281988773",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Santa Dragon",
+      "fly": true,
+      "indexDesc": "Comes with the Santa Dragon plush!",
+      "thumbnail": "rbxassetid://15281988711"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Santa Monkey",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281988633",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Santa Monkey",
+      "indexDesc": "Comes with the Santa Monkey plush!",
+      "thumbnail": "rbxassetid://15281988558"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Santa Paws",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976542654",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Santa Paws",
+      "indexDesc": "From the 2021 Insane Christmas Exclusive Egg!",
+      "thumbnail": "rbxassetid://14976542836"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sapphire Phoenix",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260480566",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Sapphire Phoenix",
+      "fly": true,
+      "indexDesc": "Comes with the Series 1 Red Chest Bundle!",
+      "thumbnail": "rbxassetid://15260480400"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Scarecrow Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976543596",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Scarecrow Cat",
+      "indexDesc": "Hatched from eggs in the 2022 Autumn Event in PSX!",
+      "thumbnail": "rbxassetid://14976543713"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Scary Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281988492",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Scary Cat",
+      "fly": true,
+      "indexDesc": "Opened from the Halloween Gift in PSX!",
+      "thumbnail": "rbxassetid://15281988446"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Scary Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15281988331",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Scary Corgi",
+      "fly": true,
+      "indexDesc": "Opened from the Halloween Gift in PSX!",
+      "thumbnail": "rbxassetid://15281988264"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sensei Penguin",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16029125841",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Sensei Penguin",
+      "indexDesc": "Reward in the 2024 Pet Collecting Battle!",
+      "thumbnail": "rbxassetid://16029125715"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Shadow Dominus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15804010470",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Shadow Dominus",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://15804010569"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Shadow Griffin",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976546302",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Shadow Griffin",
+      "fly": true,
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976546605"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Shark",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976546759",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Shark",
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976546876"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Shiba",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976546956",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Shiba",
+      "indexDesc": "Comes with Series 3 Brown Dog Collector Bundle!",
+      "thumbnail": "rbxassetid://14976547077"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Skeleton",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976548178",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Skeleton",
+      "indexDesc": "Comes with the Series 1 Marbled Purple Iridescent Cat Collector Bundle!",
+      "thumbnail": "rbxassetid://14976548258"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sketch Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17028962868",
+      "animations": {
+        "particlesSketch": {
+          "Idle": {
+            "Left": null,
+            "Right": null
+          },
+          "Farm": {
+            "Left": null,
+            "Right": null
+          }
+        }
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Sketch Corgi",
+      "indexDesc": "Found in the Exclusive Sketch Egg!",
+      "thumbnail": "rbxassetid://17027110720"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sketch Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17028962738",
+      "animations": {
+        "particlesSketch": {
+          "Idle": {
+            "Left": null,
+            "Right": null
+          },
+          "Farm": {
+            "Left": null,
+            "Right": null
+          }
+        }
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Sketch Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Sketch Egg!",
+      "thumbnail": "rbxassetid://17027110585"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sleipnir",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260480224",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Sleipnir",
+      "indexDesc": "Found in the Exclusive Original Egg!",
+      "thumbnail": "rbxassetid://15260480028"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Snowman",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15199736147",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Snowman",
+      "indexDesc": "Earned from 2022 Christmas Event in PSX!",
+      "thumbnail": "rbxassetid://15199736050"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sombrero Chihuahua",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976553090",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Sombrero Chihuahua",
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976553203"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Squirrel",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976555554",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Squirrel",
+      "indexDesc": "Comes with the Series 1 Dragon Collector Bundle!",
+      "thumbnail": "rbxassetid://14976555755"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Stargazing Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Stargazing Axolotl",
+      "indexDesc": "Found in the Exclusive Stargazing Egg!",
+      "thumbnail": "rbxassetid://17602432142"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Stargazing Wolf",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Stargazing Wolf",
+      "indexDesc": "Found in the Exclusive Stargazing Egg!",
+      "thumbnail": "rbxassetid://17602431693"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Stealth Bobcat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976557539",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Stealth Bobcat",
+      "indexDesc": "Found in the (Legendary, Mythical) Series 2 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14976557639"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Stealth Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976557900",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Stealth Dragon",
+      "hideSerial": true,
+      "fly": true,
+      "indexDesc": "Found in the (Epic, Mythical) Series 2 Merch Gifts!",
+      "thumbnail": "rbxassetid://14976557966"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Storm Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260479868",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Storm Agony",
+      "fly": true,
+      "indexDesc": "Found in one of the first non-tradable Exclusive Eggs!",
+      "thumbnail": "rbxassetid://15260479669"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Storm Dominus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260479136",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Storm Dominus",
+      "indexDesc": "Found in the Exclusive Dominus Egg!",
+      "thumbnail": "rbxassetid://15260478906"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Strawberry Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15634002856",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Strawberry Corgi",
+      "indexDesc": "Found in the Exclusive Fruit Egg!",
+      "thumbnail": "rbxassetid://15634002728"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Stunt Unicorn",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976563895",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Stunt Unicorn",
+      "fly": true,
+      "indexDesc": "Awarded to top 100 players from the 2023 Yeet a Pet Event in PSX!",
+      "thumbnail": "rbxassetid://14976564045"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sun Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17687869302",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Sun Agony",
+      "fly": true,
+      "indexDesc": "Found in the Summer Pack!",
+      "thumbnail": "rbxassetid://17687869169"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Sun Angelus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976564417",
+      "animations": {
+        "flyHeight": 1.5,
+        "angelusSpin": true
+      },
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Sun Angelus",
+      "fly": true,
+      "indexDesc": "Earned from the 2022 Summer Event in PSX!",
+      "thumbnail": "rbxassetid://14976564553"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Super Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976565367",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Super Corgi",
+      "fly": true,
+      "indexDesc": "Found in one of the first non-tradable Exclusive Eggs!",
+      "thumbnail": "rbxassetid://14976565468"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Super Tiger",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16746767734",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Super Tiger",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Superhero Egg!",
+      "thumbnail": "rbxassetid://16746767650"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Tech Chest Mimic",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976490346",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Tech Chest Mimic",
+      "indexDesc": "Comes with Series 2 Tech Chest Bundle!",
+      "thumbnail": "rbxassetid://14976490534"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Tech Samurai Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17028331329",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Tech Samurai Cat",
+      "indexDesc": "Found in the Clan Gift!",
+      "thumbnail": "rbxassetid://17028331108"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Techno Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976566586",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Techno Cat",
+      "indexDesc": "Comes with the Series 1 Blue Chest Bundle!",
+      "thumbnail": "rbxassetid://14976566707"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Three Headed Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976567323",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Three Headed Dragon",
+      "fly": true,
+      "indexDesc": "Comes with Series 3 Purple Dragon Collector Bundle!",
+      "thumbnail": "rbxassetid://14976567497"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Tiedye Axolotl",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976567658",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Tiedye Axolotl",
+      "indexDesc": "Found in the (Rare, Mythical) Series 2 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14976567779"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Tiedye Bunny",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976568507",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Tiedye Bunny",
+      "indexDesc": "Found in the (Basic, Rare, Mythical) Series 2 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14976568628"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Tiedye Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976568753",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Tiedye Cat",
+      "indexDesc": "Found in the (Basic, Rare, Mythical) Series 1 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14976568867"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Tiedye Corgi",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976569286",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Tiedye Corgi",
+      "indexDesc": "Found in the (Rare, Mythical) Series 1 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14976569398"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Tiki Dominus",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976570991",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Tiki Dominus",
+      "indexDesc": "Earned from the 2022 Summer Event in PSX!",
+      "thumbnail": "rbxassetid://14976571122"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Treasure Turtle",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18556268421",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Treasure Turtle",
+      "indexDesc": "Earned from the Millionaire World's run minigame!",
+      "thumbnail": "rbxassetid://18556268254"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Triceratops",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18758757408",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Triceratops",
+      "indexDesc": "Earned from the Dino Tycoon's meteor showers!",
+      "thumbnail": "rbxassetid://18758757156"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Tropical Flamingo",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18644413430",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Tropical Flamingo",
+      "indexDesc": "Found in the (Epic, Mythical) Series 3 Merch Gifts!",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://18644413250"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Tropical Parrot",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18644414013",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Tropical Parrot",
+      "hideSerial": true,
+      "fly": true,
+      "indexDesc": "Found in the (Legendary, Mythical) Series 3 Merch Gifts!",
+      "thumbnail": "rbxassetid://18644413700"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Tropical Toucan",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18644414363",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Tropical Toucan",
+      "hideSerial": true,
+      "fly": true,
+      "indexDesc": "Found in the (Epic, Mythical) Series 3 Merch Gifts!",
+      "thumbnail": "rbxassetid://18644414181"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Turtle",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976572239",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Turtle",
+      "indexDesc": "Found in Series 2 Mystery Egg Plush! [RARE]",
+      "thumbnail": "rbxassetid://14976572325"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Umbrella Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976572580",
+      "animations": {
+        "flyHeight": 1,
+        "flyHeightChange": 4,
+        "flySpeed": 0.4
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Umbrella Cat",
+      "fly": true,
+      "indexDesc": "Found in the Huge Machine Butterfly Egg!",
+      "thumbnail": "rbxassetid://14976572705"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Unicorn",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976573095",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Unicorn",
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976573179"
+    },
+    "dateCreated": null,
+    "dateModified": null,
+    "hash": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Unicorn Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15163489798",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Unicorn Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Dragon Egg!",
+      "thumbnail": "rbxassetid://15163489495"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge UV Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18351655595",
+      "animations": {
+        "vertexColorAnim": [
+          {
+            "Time": 0,
+            "Value": null
+          },
+          {
+            "Time": 0.1,
+            "Value": null
+          },
+          {
+            "Time": 0.2,
+            "Value": null
+          },
+          {
+            "Time": 0.3,
+            "Value": null
+          },
+          {
+            "Time": 0.4,
+            "Value": null
+          },
+          {
+            "Time": 0.5,
+            "Value": null
+          },
+          {
+            "Time": 0.6,
+            "Value": null
+          },
+          {
+            "Time": 0.7,
+            "Value": null
+          },
+          {
+            "Time": 0.8,
+            "Value": null
+          },
+          {
+            "Time": 0.9,
+            "Value": null
+          },
+          {
+            "Time": 1,
+            "Value": null
+          }
+        ],
+        "vertexColorAnimSpeed": 0.075
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge UV Cat",
+      "indexDesc": "Earned from the Lucky Tile Event's final egg!",
+      "thumbnail": "rbxassetid://18356987128"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge UV Kitsune",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18351655946",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge UV Kitsune",
+      "indexDesc": "Earned from the Lucky Tile Event!",
+      "thumbnail": "rbxassetid://18351655777"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Valentines Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16291099415",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Valentine's Cat",
+      "indexDesc": "Found in the Exclusive Valentine's Egg!",
+      "thumbnail": "rbxassetid://16290990548"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Valkyrie Dog",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18465101315",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Valkyrie Dog",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Valkyrie Egg!",
+      "thumbnail": "rbxassetid://18465101315"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Valkyrie Wolf",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18465100470",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Valkyrie Wolf",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Valkyrie Egg!",
+      "thumbnail": "rbxassetid://18465100470"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Vampire Bat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976574132",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Vampire Bat",
+      "fly": true,
+      "indexDesc": "Earned in the 2022 and 2023 Halloween Event in PSX!",
+      "thumbnail": "rbxassetid://14976574393"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Vibrant Toucan",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17835926283",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Vibrant Toucan",
+      "fly": true,
+      "indexDesc": "Found in the Huge Machine Butterfly Egg!",
+      "thumbnail": "rbxassetid://17835926180"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Virus Griffin",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17857638178",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Virus Griffin",
+      "fly": true,
+      "indexDesc": "Earned from the Virus Egg during a Hacker Virus!",
+      "thumbnail": "rbxassetid://17857638038"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Warrior Wolf",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18256895855",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Warrior Wolf",
+      "fly": true,
+      "indexDesc": "Found in the Good vs. Evil Pack!",
+      "thumbnail": "rbxassetid://18256895705"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Whale Shark",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16725471704",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Whale Shark",
+      "indexDesc": "Found in Deep Pools in the Advanced Fishing minigame!",
+      "thumbnail": "rbxassetid://16725471591"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge White Balloon Cat",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976576256",
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge White Balloon Cat",
+      "fly": true,
+      "indexDesc": "Found in the Series 1 CoolBeanz! [RARE]",
+      "thumbnail": "rbxassetid://14976576332"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge White Tiger",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976576693",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge White Tiger",
+      "indexDesc": "Found in the Lucky Block Merch!",
+      "thumbnail": "rbxassetid://14976576861"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Wicked Empyrean Dragon",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17746014523",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Wicked Empyrean Dragon",
+      "fly": true,
+      "indexDesc": "Reward in the 2024 Wicked Clan Battle!",
+      "thumbnail": "rbxassetid://17746014334"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Wild Fire Agony",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976578410",
+      "indexObtainable": false,
+      "huge": true,
+      "name": "Huge Wild Fire Agony",
+      "fly": true,
+      "indexDesc": "Hatched from eggs in PSX!",
+      "thumbnail": "rbxassetid://14976578547"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Willow Wisp",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976579094",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Willow Wisp",
+      "fly": true,
+      "indexDesc": "Found in the Huge Machine Blurred Dominus Egg!",
+      "thumbnail": "rbxassetid://14976579205"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Wizard Westie",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14976579654",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Wizard Westie",
+      "indexDesc": "Found in the Crystal Chest!",
+      "thumbnail": "rbxassetid://14976579774"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Huge Zebra",
+    "category": "Huge",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15803989875",
+      "indexObtainable": true,
+      "huge": true,
+      "name": "Huge Zebra",
+      "indexDesc": "Found occasionally in Active Huge Pets!",
+      "thumbnail": "rbxassetid://15803989668"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  }
+]

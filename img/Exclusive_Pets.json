@@ -1,0 +1,2909 @@
+[
+  {
+    "configName": "Amethyst Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968170930",
+      "name": "Amethyst Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968171079"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Anime Agony",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968172373",
+      "animations": {
+        "hybridFly": true
+      },
+      "name": "Anime Agony",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://14968172578"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Anime Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968172702",
+      "animations": {
+        "hybridFly": true
+      },
+      "name": "Anime Corgi",
+      "thumbnail": "rbxassetid://14968172812"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Anime Monkey",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968173019",
+      "animations": {
+        "hybridFly": true
+      },
+      "name": "Anime Monkey",
+      "thumbnail": "rbxassetid://14968173242"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Anime Unicorn",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968173393",
+      "animations": {
+        "hybridFly": true
+      },
+      "name": "Anime Unicorn",
+      "thumbnail": "rbxassetid://14968173600"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Atlantean Dolphin",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968175998",
+      "indexObtainable": true,
+      "name": "Atlantean Dolphin",
+      "exclusiveLevel": 3,
+      "indexDesc": "Found in the Exclusive Atlantean Egg!",
+      "thumbnail": "rbxassetid://14968176121"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Atlantean Orca",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968176816",
+      "name": "Atlantean Orca",
+      "thumbnail": "rbxassetid://14968176963"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Atlantean Stingray",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968177109",
+      "name": "Atlantean Stingray",
+      "thumbnail": "rbxassetid://14968177273"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Balloon Axolotl",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968178373",
+      "animations": {
+        "balloon": true
+      },
+      "name": "Balloon Axolotl",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968178558"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Balloon Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968178812",
+      "animations": {
+        "balloon": true
+      },
+      "name": "Balloon Corgi",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968178899"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Balloon Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968179039",
+      "animations": {
+        "balloon": true
+      },
+      "name": "Balloon Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968179312"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Banana",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://17825124454",
+      "preventGolden": true,
+      "secret": true,
+      "name": "Banana",
+      "thumbnail": "rbxassetid://17825124454"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Bejeweled Deer",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17450283974",
+      "name": "Bejeweled Deer",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://17450284180"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Bejeweled Lion",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17450284506",
+      "name": "Bejeweled Lion",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://17450284689"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Bejeweled Unicorn",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17450284849",
+      "name": "Bejeweled Unicorn",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://17450284940"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Black Hole Axolotl",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://17285711111",
+      "name": "Black Hole Axolotl",
+      "thumbnail": "rbxassetid://17285711200"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Black Hole Immortuus",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://17285711302",
+      "name": "Black Hole Immortuus",
+      "thumbnail": "rbxassetid://17285745121"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Black Hole Kitsune",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://17285711649",
+      "name": "Black Hole Kitsune",
+      "thumbnail": "rbxassetid://17285711731"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Blazing Bat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://17749016378",
+      "name": "Blazing Bat",
+      "fly": true,
+      "thumbnail": "rbxassetid://17749016455"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Blazing Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17749016591",
+      "name": "Blazing Corgi",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://17749016673"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Blazing Shark",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17749016995",
+      "name": "Blazing Shark",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://17749017162"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Blobenstein",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968183149",
+      "name": "Blobenstein",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968183240"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Blobfish",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968183329",
+      "name": "Blobfish",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968183467"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Bloo Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17374946383",
+      "name": "Bloo Cat",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://17374946247"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Blueberry Cow",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15634029235",
+      "name": "Blueberry Cow",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://15634029076"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Capybara",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968190105",
+      "name": "Capybara",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968190224"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Celestial Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15163401960",
+      "name": "Celestial Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://15163402047"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Chest Mimic",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968192582",
+      "name": "Chest Mimic",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968192663"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Clout Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968196327",
+      "name": "Clout Cat",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968196480"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Coin",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://17825174910",
+      "preventGolden": true,
+      "secret": true,
+      "name": "Coin",
+      "thumbnail": "rbxassetid://17825174910"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Cool Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968198354",
+      "name": "Cool Cat",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968198436"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Cool Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968198512",
+      "name": "Cool Corgi",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968198599"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Cool Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968198703",
+      "name": "Cool Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968198861"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Cosmic Agony",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "",
+      "name": "Cosmic Agony",
+      "exclusiveLevel": 3,
+      "fly": true,
+      "thumbnail": "rbxassetid://15201620079"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Cosmic Axolotl",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "",
+      "name": "Cosmic Axolotl",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://15201620186"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Cosmic Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "",
+      "name": "Cosmic Dragon",
+      "exclusiveLevel": 2,
+      "fly": true,
+      "thumbnail": "rbxassetid://15201619975"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Crystal Deer",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968200950",
+      "name": "Crystal Deer",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968201085"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Crystal Dog",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968201278",
+      "name": "Crystal Dog",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968201434"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Cupid Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968202287",
+      "name": "Cupid Corgi",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968202482"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Cyborg Capybara",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15260349978",
+      "name": "Cyborg Capybara",
+      "fly": true,
+      "thumbnail": "rbxassetid://15260349851"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Diamond Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968207729",
+      "name": "Diamond Cat",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://14968207912"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Doge",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968209211",
+      "name": "Doge",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968209297"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Dominus Astra",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968209943",
+      "name": "Dominus Astra",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://14968210060"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Dominus Darkwing",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968210551",
+      "name": "Dominus Darkwing",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968210625"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Domortuus Astra",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968211409",
+      "name": "Domortuus Astra",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://14968211535"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Dragonfruit Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15634025444",
+      "name": "Dragonfruit Dragon",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://15634025370"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Electric Slime",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968227154",
+      "name": "Electric Slime",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968227249"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Emerald Monkey",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968228161",
+      "name": "Emerald Monkey",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968228249"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Emoji Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://16043364155",
+      "animations": {
+        "fadeFrames": [
+          {
+            "instant": true,
+            "duration": 3,
+            "iconThumbnail": "rbxassetid://16047313414",
+            "textureName": "frame1"
+          },
+          {
+            "instant": true,
+            "duration": 1,
+            "iconThumbnail": "rbxassetid://16047314024",
+            "textureName": "frame2"
+          },
+          {
+            "instant": true,
+            "duration": 1,
+            "iconThumbnail": "rbxassetid://16047699763",
+            "textureName": "frame3"
+          },
+          {
+            "instant": true,
+            "duration": 5,
+            "iconThumbnail": "rbxassetid://16047699544",
+            "textureName": "frame4"
+          },
+          {
+            "instant": true,
+            "duration": 1,
+            "iconThumbnail": "rbxassetid://16047699763",
+            "textureName": "frame3"
+          },
+          {
+            "instant": true,
+            "duration": 1,
+            "iconThumbnail": "rbxassetid://16047314024",
+            "textureName": "frame2"
+          }
+        ],
+        "idleActionAnimations": [
+          [
+            "LookAround",
+            0.6
+          ]
+        ],
+        "customAnimations": true
+      },
+      "name": "Emoji Cat",
+      "thumbnail": "rbxassetid://16047313527"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Emoji Dog",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://16043362572",
+      "animations": {
+        "fadeFrames": [
+          {
+            "instant": true,
+            "duration": 2,
+            "iconThumbnail": "rbxassetid://16047312407",
+            "textureName": "frame1"
+          },
+          {
+            "instant": true,
+            "duration": 3,
+            "iconThumbnail": "rbxassetid://16047312609",
+            "textureName": "frame2"
+          }
+        ],
+        "idleActionAnimations": [
+          [
+            "Angry",
+            0.3
+          ]
+        ],
+        "customAnimations": true
+      },
+      "name": "Emoji Dog",
+      "thumbnail": "rbxassetid://16047312609"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Emoji Monkey",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://16043362082",
+      "animations": {
+        "fadeFrames": [
+          {
+            "instant": true,
+            "duration": 2,
+            "iconThumbnail": "rbxassetid://16047312048",
+            "textureName": "frame1"
+          },
+          {
+            "instant": true,
+            "duration": 3,
+            "iconThumbnail": "rbxassetid://16047363462",
+            "textureName": "frame2"
+          }
+        ],
+        "idleActionAnimations": [
+          [
+            "MonkeyBackflip",
+            1
+          ]
+        ],
+        "customAnimations": true
+      },
+      "name": "Emoji Monkey",
+      "thumbnail": "rbxassetid://16047363462"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Empyrean Agony",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968228350",
+      "name": "Empyrean Agony",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968228476"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Empyrean Dominus",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968228916",
+      "name": "Empyrean Dominus",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968229114"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Exquisite Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14976332148",
+      "name": "Exquisite Cat",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968233437"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Exquisite Elephant",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968233513",
+      "name": "Exquisite Elephant",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968233585"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Exquisite Parrot",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968233653",
+      "name": "Exquisite Parrot",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://14968233738"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Fairy Queen",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968234397",
+      "name": "Fairy Queen",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968234492"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Flex Bear",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18127448624",
+      "name": "Flex Bear",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://18127448624"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Flex Fluffy Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18127448974",
+      "name": "Flex Fluffy Cat",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://18127448974"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Flex Tiger",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18127449266",
+      "name": "Flex Tiger",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://18127449266"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Floppa",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968239909",
+      "name": "Floppa",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968240040"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Nature Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968240791",
+      "name": "Forest Wyvern",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968240950"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Galaxy Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968243016",
+      "name": "Galaxy Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968243135"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Galaxy Pegasus",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968243684",
+      "name": "Galaxy Pegasus",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968243819"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Gargoyle Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968244583",
+      "name": "Gargoyle Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968244743"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Gary the Snail",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18313099619",
+      "name": "Gary the Snail",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://18313099619"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Grinch Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968251748",
+      "name": "Grinch Cat",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968251919"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Grumpy Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968252063",
+      "name": "Grumpy Cat",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968252224"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Guest Noob",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968252371",
+      "name": "Guest Noob",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968252525"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Heart Balloon Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://16306672226",
+      "animations": {
+        "balloon": true
+      },
+      "name": "Heart Balloon Cat",
+      "fly": true,
+      "thumbnail": "rbxassetid://16306670734"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Hell Chest Mimic",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968255468",
+      "name": "Hell Chest Mimic",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968255585"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Holiday Balloon Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://15715880914",
+      "animations": {
+        "balloon": true
+      },
+      "name": "Holiday Balloon Cat",
+      "fly": true,
+      "thumbnail": "rbxassetid://15715880811"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Holiday Pegasus",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://15715880570",
+      "name": "Holiday Pegasus",
+      "fly": true,
+      "thumbnail": "rbxassetid://15715880316"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Hologram Axolotl",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968257984",
+      "animations": {
+        "flyHeightChange": 0
+      },
+      "name": "Hologram Axolotl",
+      "exclusiveLevel": 3,
+      "fly": true,
+      "thumbnail": "rbxassetid://14968258075"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Hologram Shark",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968258693",
+      "animations": {
+        "flyHeightChange": 0
+      },
+      "name": "Hologram Shark",
+      "exclusiveLevel": 1,
+      "fly": true,
+      "thumbnail": "rbxassetid://14968258877"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Hologram Tiger",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968258995",
+      "animations": {
+        "flyHeightChange": 0
+      },
+      "name": "Hologram Tiger",
+      "exclusiveLevel": 2,
+      "fly": true,
+      "thumbnail": "rbxassetid://14968259117"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Ice Cream Cone",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968263341",
+      "name": "Ice Cream Cone",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968263480"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Inferno Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968264352",
+      "name": "Inferno Cat",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://14968264482"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Inferno Dominus",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968264563",
+      "name": "Inferno Dominus",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://14968264716"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Inferno Stealth Bobcat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://18644342040",
+      "name": "Inferno Stealth Bobcat",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://18644342174"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Inferno Stealth Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://18644342277",
+      "name": "Inferno Stealth Cat",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://18644342367"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Inferno Stealth Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://18644342531",
+      "name": "Inferno Stealth Dragon",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://18644342706"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Jelly Axolotl",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16483035084",
+      "animations": {
+        "jelly": true
+      },
+      "name": "Jelly Axolotl",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://16483035003"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Jelly Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968266009",
+      "animations": {
+        "jelly": true
+      },
+      "name": "Jelly Corgi",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968266152"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Jelly Monkey",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16483034554",
+      "animations": {
+        "jelly": true
+      },
+      "name": "Jelly Monkey",
+      "exclusiveLevel": 3,
+      "fly": true,
+      "thumbnail": "rbxassetid://16495773922"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Jelly Panda",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968266252",
+      "animations": {
+        "jelly": true
+      },
+      "name": "Jelly Panda",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968266382"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Jelly Piggy",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968266535",
+      "animations": {
+        "jelly": true
+      },
+      "name": "Jelly Piggy",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://14968266649"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Jelly Shiba",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16483033972",
+      "animations": {
+        "jelly": true
+      },
+      "name": "Jelly Shiba",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://16495773748"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Jester Dog",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16746704524",
+      "name": "Jester Dog",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://16746704663"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Keyboard Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968269943",
+      "name": "Keyboard Cat",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968270057"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Knife Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968270529",
+      "name": "Knife Cat",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968270716"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Koala",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968270804",
+      "name": "Koala",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968270886"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Lava Scorpion",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968271803",
+      "name": "Lava Scorpion",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968271886"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Lightning Bat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968273641",
+      "name": "Lightning Bat",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968273789"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Lucky Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968277071",
+      "name": "Lucky Cat",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://14968277226"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Mosaic Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968283236",
+      "name": "Mosaic Corgi",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968283350"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Mosaic Dove",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968283455",
+      "name": "Mosaic Dove",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://14968283582"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Mosaic Elephant",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968283743",
+      "name": "Mosaic Elephant",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968283881"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Mosaic Griffin",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968284011",
+      "name": "Mosaic Griffin",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://14968284179"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Mosaic Lamb",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968284282",
+      "name": "Mosaic Lamb",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968284378"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Mr Krabs",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18313092388",
+      "name": "Mr. Krabs",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://18313092388"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Mushroom King",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968284821",
+      "name": "Mushroom King",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968284903"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Nebula Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968286289",
+      "name": "Nebula Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968286552"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Neon Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968286725",
+      "name": "Neon Cat",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968286845"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Neon Dog",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968286984",
+      "name": "Neon Dog",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968287106"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Neon Griffin",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968287224",
+      "name": "Neon Griffin",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968287391"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Neon Twilight Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260348547",
+      "name": "Neon Twilight Cat",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://15260348437"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Neon Twilight Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15260348332",
+      "name": "Neon Twilight Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://15260348258"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Neon Twilight Tiger",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260348124",
+      "name": "Neon Twilight Tiger",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://15260347988"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Neon Twilight Wolf",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260347843",
+      "name": "Neon Twilight Wolf",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://15260347743"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Nightfall Pegasus",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15260347656",
+      "name": "Nightfall Pegasus",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://15260347529"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Nightfall Ram",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15260347448",
+      "name": "Nightfall Ram",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://15260347339"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Nightfall Tiger",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15260347226",
+      "name": "Nightfall Tiger",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://15260347082"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Nightfall Wolf",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15260346933",
+      "name": "Nightfall Wolf",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://15260346749"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Nightmare Bear",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968289559",
+      "name": "Nightmare Bear",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968289661"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Nightmare Kraken",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968290148",
+      "animations": {
+        "flyHeightChange": 0,
+        "swerve": true,
+        "swerveMaxAngle": 60,
+        "flyHeight": 0.025,
+        "swerveAggression": 0.2
+      },
+      "name": "Nightmare Kraken",
+      "exclusiveLevel": 3,
+      "fly": true,
+      "thumbnail": "rbxassetid://14968290312"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Nightmare Spirit",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968290405",
+      "name": "Nightmare Spirit",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968290525"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Noobortuus",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968292237",
+      "name": "Noobortuus",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968292316"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Nyan Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968293066",
+      "name": "Nyan Cat",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968293166"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Old Wizard Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://18644342993",
+      "name": "Old Wizard Corgi",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://18644343315"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Old Wizard Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://18644343640",
+      "name": "Old Wizard Dragon",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://18644343940"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Old Wizard Owl",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://18644344108",
+      "name": "Old Wizard Owl",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://18644344198"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Orange Axolotl",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15634020673",
+      "name": "Orange Axolotl",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://15634020515"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Orca",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968293579",
+      "name": "Orca",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968293678"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Otter",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968293791",
+      "name": "Otter",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968293937"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Patrick Star",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://18313092193",
+      "name": "Patrick Star",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://18313092193"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Peppermint Angelus",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15715878611",
+      "animations": {
+        "angelusSpin": true
+      },
+      "name": "Peppermint Angelus",
+      "fly": true,
+      "thumbnail": "rbxassetid://15715878441"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Pony",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968308866",
+      "name": "Pony",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968308927"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Pop Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968309002",
+      "animations": {
+        "flipbookAnimationGold": [
+          "rbxassetid://12442921397",
+          "rbxassetid://12445579992"
+        ],
+        "flipbookAnimationSpeed": 0.15,
+        "flipbookAnimation": [
+          "rbxassetid://12442921582",
+          "rbxassetid://12445580091"
+        ]
+      },
+      "name": "Pop Cat",
+      "thumbnail": "rbxassetid://14968309066"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Present Chest Mimic",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968311645",
+      "name": "Present Chest Mimic",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://14968311832"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Prickly Panda",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968312852",
+      "name": "Prickly Panda",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968312942"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Pterodactyl",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968313282",
+      "name": "Pterodactyl",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968313449"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Punkey",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968314806",
+      "name": "Punkey",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968314943"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Puurple Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17450286320",
+      "name": "Puurple Cat",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://17450286457"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Rainbow Swirl",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://17825124339",
+      "preventGolden": true,
+      "secret": true,
+      "name": "Rainbow Swirl",
+      "thumbnail": "rbxassetid://17825124339"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Rainbow Unicorn",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968316424",
+      "name": "Rainbow Unicorn",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968316589"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Rave Crab",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968316730",
+      "name": "Rave Crab",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968316850"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Redstone Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968318248",
+      "name": "Redstone Cat",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968318336"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Rift Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://15163402325",
+      "name": "Rift Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://15163402414"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Sad Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968322675",
+      "name": "Sad Cat",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968322801"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Sapphire Phoenix",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15260345481",
+      "name": "Sapphire Phoenix",
+      "fly": true,
+      "thumbnail": "rbxassetid://15260345330"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Sea Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968185297",
+      "name": "Sea Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968185465"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Sketch Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17028976493",
+      "name": "Sketch Corgi",
+      "animations": {
+        "particlesSketch": {
+          "Idle": {
+            "Left": null,
+            "Right": null
+          },
+          "Farm": {
+            "Left": null,
+            "Right": null
+          }
+        }
+      },
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://17027101955"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Sketch Cow",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://17028976356",
+      "name": "Sketch Cow",
+      "animations": {
+        "particlesSketch": {
+          "Idle": {
+            "Left": null,
+            "Right": null
+          },
+          "Farm": {
+            "Left": null,
+            "Right": null
+          }
+        }
+      },
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://17027102136"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Sketch Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://17028976196",
+      "animations": {
+        "particlesSketch": {
+          "Idle": {
+            "Left": null,
+            "Right": null
+          },
+          "Farm": {
+            "Left": null,
+            "Right": null
+          }
+        }
+      },
+      "name": "Sketch Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://17027101695"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Sleipnir",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260351714",
+      "name": "Sleipnir",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://15260351612"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Sock Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968334567",
+      "name": "Sock Cat",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968334672"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Sock Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968334765",
+      "name": "Sock Corgi",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968334854"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Sock Monkey",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968334948",
+      "name": "Sock Monkey",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968335044"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Stacked Doge Noob",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968339038",
+      "name": "Stacked Doge Noob",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968339288"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Starfall Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968339743",
+      "name": "Starfall Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968340882"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Stargazing Axolotl",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "",
+      "name": "Stargazing Axolotl",
+      "thumbnail": "rbxassetid://17603089445"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Stargazing Bear",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "",
+      "name": "Stargazing Bear",
+      "thumbnail": "rbxassetid://17602385427"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Stargazing Wolf",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "",
+      "name": "Stargazing Wolf",
+      "thumbnail": "rbxassetid://17602385201"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Stealth Bobcat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968342047",
+      "name": "Stealth Bobcat",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968342188"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Stealth Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968342300",
+      "name": "Stealth Cat",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968342472"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Stealth Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968342644",
+      "name": "Stealth Dragon",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://14968342742"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Storm Agony",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15260344951",
+      "name": "Storm Agony",
+      "fly": true,
+      "thumbnail": "rbxassetid://15260344841"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Storm Dominus",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260344540",
+      "name": "Storm Dominus",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://15260344456"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Storm Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://15260344356",
+      "name": "Storm Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://15260344244"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Storm Wolf",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://15260344146",
+      "name": "Storm Wolf",
+      "exclusiveLevel": 3,
+      "thumbnail": "rbxassetid://15260344049"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Stunt Bobcat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968346293",
+      "name": "Stunt Bobcat",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968346408"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Stunt Chick",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968346853",
+      "name": "Stunt Chick",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968347006"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Stunt Unicorn",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968347369",
+      "name": "Stunt Unicorn",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968347562"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Subzero Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968347727",
+      "name": "Subzero Cat",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://14968347840"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Super Capybara",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968348636",
+      "name": "Super Capybara",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968348781"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Super Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968348891",
+      "name": "Super Cat",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968349033"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Super Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968349230",
+      "name": "Super Corgi",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968349380"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Super Tiger",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://16746708772",
+      "name": "Super Tiger",
+      "fly": true,
+      "thumbnail": "rbxassetid://16746708885"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Thunder Bear",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://16746708967",
+      "name": "Thunder Bear",
+      "exclusiveLevel": 2,
+      "thumbnail": "rbxassetid://16746709043"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tiedye Axolotl",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968351612",
+      "name": "Tiedye Axolotl",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968351742"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tiedye Bear",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968352100",
+      "name": "Tiedye Bear",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968352252"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tiedye Bunny",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968352356",
+      "name": "Tiedye Bunny",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968352460"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tiedye Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968352730",
+      "name": "Tiedye Cat",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968352979"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tiedye Corgi",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968353106",
+      "name": "Tiedye Corgi",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968353197"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tiedye Dog",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968353278",
+      "name": "Tiedye Dog",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://14968353381"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tiedye Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://14968353514",
+      "name": "Tiedye Dragon",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://14968353613"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tiedye Griffin",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://14968353698",
+      "name": "Tiedye Griffin",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://14968353783"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tropical Flamingo",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://18644344299",
+      "name": "Tropical Flamingo",
+      "hideSerial": true,
+      "thumbnail": "rbxassetid://18644344373"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tropical Parrot",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://18644344488",
+      "name": "Tropical Parrot",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://18644344647"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Tropical Toucan",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://18644344848",
+      "name": "Tropical Toucan",
+      "hideSerial": true,
+      "fly": true,
+      "thumbnail": "rbxassetid://18644345027"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Unicorn Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://15163402478",
+      "name": "Unicorn Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://15163402536"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Valentines Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968357274",
+      "name": "Valentine's Cat",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968357373"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Valkyrie Dog",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 1,
+      "goldenThumbnail": "rbxassetid://18464815689",
+      "name": "Valkyrie Dog",
+      "fly": true,
+      "thumbnail": "rbxassetid://18464815689"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Valkyrie Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 2,
+      "goldenThumbnail": "rbxassetid://18464815436",
+      "name": "Valkyrie Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://18464815436"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Valkyrie Wolf",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://18464814909",
+      "name": "Valkyrie Wolf",
+      "fly": true,
+      "thumbnail": "rbxassetid://18464814909"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Wicked Angelus",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968359701",
+      "animations": {
+        "angelusSpin": true
+      },
+      "name": "Wicked Angelus",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968359818"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Wicked Empyrean Dragon",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://14968359938",
+      "name": "Wicked Empyrean Dragon",
+      "fly": true,
+      "thumbnail": "rbxassetid://14968360041"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Yee-haw Cat",
+    "category": "Uncategorized",
+    "configData": {
+      "goldenThumbnail": "rbxassetid://14968199510",
+      "name": "Yee-haw Cat",
+      "exclusiveLevel": 1,
+      "thumbnail": "rbxassetid://14968199662"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Yellow Lucky Block",
+    "category": "Uncategorized",
+    "configData": {
+      "exclusiveLevel": 3,
+      "goldenThumbnail": "rbxassetid://17825174788",
+      "preventGolden": true,
+      "secret": true,
+      "name": "Yellow Lucky Block",
+      "thumbnail": "rbxassetid://17825174788"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  }
+]

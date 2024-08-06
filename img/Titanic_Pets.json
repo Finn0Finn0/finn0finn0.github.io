@@ -1,0 +1,1247 @@
+[
+  {
+    "configName": "Titanic Atlantean Jellyfish",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977486389",
+      "animations": {
+        "ridingGravity": 65.3346,
+        "ridingCameraOffset": null,
+        "swerveMaxAngle": 45,
+        "flyHeight": 2.2,
+        "spin": true,
+        "swerve": true
+      },
+      "indexObtainable": true,
+      "name": "Titanic Atlantean Jellyfish",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Atlantean Egg!",
+      "thumbnail": "rbxassetid://14976584980"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Axolotl",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "name": "Titanic Axolotl",
+      "goldenThumbnail": "rbxassetid://14977487161",
+      "thumbnail": "rbxassetid://14976585715"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Balloon Monkey",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://11970074726",
+      "animations": {
+        "balloon": true,
+        "ridingGravity": 65.3346,
+        "ridingCameraOffset": null,
+        "ridingJumpPower": 52.5
+      },
+      "indexObtainable": true,
+      "name": "Titanic Balloon Monkey",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Balloon Egg!",
+      "thumbnail": "rbxassetid://14976586764"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Banana",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977487931",
+      "tradable": false,
+      "hideExists": true,
+      "indexObtainable": true,
+      "name": "Titanic Banana",
+      "indexDesc": "Tied to the Banana Shoulder Pet Roblox limited!",
+      "ugc": true,
+      "thumbnail": "rbxassetid://14976586993"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Banana Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://15644507241",
+      "indexObtainable": true,
+      "name": "Titanic Banana Cat",
+      "indexDesc": "Found in the Exclusive Fruit Egg!",
+      "thumbnail": "rbxassetid://15644507059"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Bat Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16746763506",
+      "indexObtainable": true,
+      "name": "Titanic Bat Cat",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Superhero Egg!",
+      "thumbnail": "rbxassetid://16746763420"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Bejeweled Griffin",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://17450303005",
+      "indexObtainable": true,
+      "name": "Titanic Bejeweled Griffin",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Bejeweled Egg!",
+      "thumbnail": "rbxassetid://17450302814"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Black Hole Angelus",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://17285296213",
+      "animations": {
+        "ridingGravity": 65.3346,
+        "ridingCameraOffset": null,
+        "swerveMaxAngle": 45,
+        "flyHeight": 2.2,
+        "spinZ": true,
+        "swerve": true
+      },
+      "indexObtainable": true,
+      "flyingTitanic": true,
+      "name": "Titanic Black Hole Angelus",
+      "flyingTitanicAlwaysFly": true,
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Black Hole Egg!",
+      "thumbnail": "rbxassetid://17285296068"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Blazing Dragon",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://17749522423",
+      "indexObtainable": true,
+      "flyingTitanic": true,
+      "name": "Titanic Blazing Dragon",
+      "flyingTitanicAlwaysFly": true,
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Blazing Egg!",
+      "thumbnail": "rbxassetid://17749522423"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Blobfish",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977490217",
+      "indexObtainable": true,
+      "name": "Titanic Blobfish",
+      "indexDesc": "Comes with the Titanic Blobfish plush!",
+      "thumbnail": "rbxassetid://14976589636"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Blue Balloon Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://12292639155",
+      "animations": {
+        "balloon": true,
+        "ridingGravity": 65.3346,
+        "ridingCameraOffset": null,
+        "ridingJumpPower": 52.5
+      },
+      "indexObtainable": true,
+      "name": "Titanic Blue Balloon Cat",
+      "fly": true,
+      "indexDesc": "Comes with the Titanic Blue Balloon Cat plush!",
+      "thumbnail": "rbxassetid://14976589786"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Blueberry Cow",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://17269862235",
+      "indexObtainable": true,
+      "name": "Titanic Blueberry Cow",
+      "indexDesc": "Comes with the Titanic Blueberry Cow plush!",
+      "thumbnail": "rbxassetid://17269862161"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Bread Shiba",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16393819369",
+      "indexObtainable": true,
+      "name": "Titanic Bread Shiba",
+      "indexDesc": "Comes with the Titanic Bread Shiba plush!",
+      "thumbnail": "rbxassetid://16393819211"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Butterfly",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://17821211847",
+      "indexObtainable": true,
+      "flyingTitanic": true,
+      "name": "Titanic Butterfly",
+      "flyingTitanicAlwaysFly": true,
+      "fly": true,
+      "indexDesc": "Found in the Huge Machine Butterfly Egg!",
+      "thumbnail": "rbxassetid://17821211666"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Capybara",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977493695",
+      "indexObtainable": true,
+      "name": "Titanic Capybara",
+      "indexDesc": "Comes with the Titanic Capybara plush!",
+      "thumbnail": "rbxassetid://14976593327"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977494107",
+      "indexObtainable": false,
+      "name": "Titanic Cat",
+      "indexDesc": "From limited-time event on PSX!",
+      "thumbnail": "rbxassetid://14976594978"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Cheerful Yeti",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977494512",
+      "indexObtainable": true,
+      "name": "Titanic Cheerful Yeti",
+      "indexDesc": "Comes with the Titanic Cheerful Yeti plush!",
+      "thumbnail": "rbxassetid://14976595593"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Corgi",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16125357265",
+      "indexObtainable": true,
+      "name": "Titanic Corgi",
+      "indexDesc": "Comes with the Titanic Corgi plush!",
+      "thumbnail": "rbxassetid://16125357082"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Cosmic Pegasus",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "",
+      "indexObtainable": true,
+      "name": "Titanic Cosmic Pegasus",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Cosmic Egg!",
+      "thumbnail": "rbxassetid://15201628877"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Dino Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977503494",
+      "indexObtainable": true,
+      "name": "Titanic Dino Cat",
+      "indexDesc": "Comes with the Titanic Dino Cat plush!",
+      "thumbnail": "rbxassetid://14976604955"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Dominus Astra",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977504373",
+      "indexObtainable": true,
+      "name": "Titanic Dominus Astra",
+      "indexDesc": "Found in the Exclusive Dominus Egg!",
+      "thumbnail": "rbxassetid://14976605624"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Emoji Corgi",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16046367062",
+      "animations": {
+        "fadeFrames": [
+          {
+            "instant": true,
+            "duration": 2,
+            "iconThumbnail": "rbxassetid://16047477969",
+            "textureName": "frame1"
+          },
+          {
+            "instant": true,
+            "duration": 3,
+            "iconThumbnail": "rbxassetid://16047478331",
+            "textureName": "frame2"
+          }
+        ],
+        "idleActionAnimations": [
+          [
+            "CorgiJumping",
+            1
+          ]
+        ],
+        "customAnimations": true
+      },
+      "indexObtainable": true,
+      "name": "Titanic Emoji Corgi",
+      "indexDesc": "Found in the Exclusive Emoji Egg!",
+      "thumbnail": "rbxassetid://16047477969"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Fawn",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977522484",
+      "indexObtainable": true,
+      "name": "Titanic Fawn",
+      "indexDesc": "Comes with the Titanic Fawn plush!",
+      "thumbnail": "rbxassetid://14976619071"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Fire Dragon",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://15163496678",
+      "animations": {
+        "ridingCameraOffset": null
+      },
+      "indexObtainable": true,
+      "name": "Titanic Fire Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Dragon Egg!",
+      "thumbnail": "rbxassetid://15163496528"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Flex Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://18151232769",
+      "animations": {
+        "flyHeight": 0.025,
+        "flyHeightChange": 0
+      },
+      "indexObtainable": true,
+      "name": "Titanic Flex Cat",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Flex Egg!",
+      "thumbnail": "rbxassetid://18151232769"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Hippomelon",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977533744",
+      "indexObtainable": true,
+      "name": "Titanic Hippomelon",
+      "indexDesc": "Comes with the Titanic Hippomelon plush!",
+      "thumbnail": "rbxassetid://14976631515"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Hologram Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977533986",
+      "animations": {
+        "flyHeight": 2,
+        "flyHeightChange": 0,
+        "ridingCameraOffset": null,
+        "ridingTransparency": 0.75
+      },
+      "indexObtainable": true,
+      "name": "Titanic Hologram Cat",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Hologram Egg!",
+      "thumbnail": "rbxassetid://14976631845"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Hubert",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://12422515522",
+      "indexObtainable": true,
+      "name": "Titanic Hubert",
+      "indexDesc": "Found in the Exclusive Meme Egg!",
+      "thumbnail": "rbxassetid://14976633736"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Jelly Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977537480",
+      "animations": {
+        "replacementPool": [
+          [
+            1,
+            0.5
+          ],
+          [
+            2,
+            0.2
+          ],
+          [
+            3,
+            0.15
+          ],
+          [
+            4,
+            0.1
+          ],
+          [
+            5,
+            0.04
+          ],
+          [
+            6,
+            0.01
+          ]
+        ],
+        "jelly": true,
+        "replacements": [
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Coin inside! (50%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with Diamonds inside! (20%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Chest inside! (15%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Lucky Block inside! (10%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Maskot Pet inside! (4%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with Preston inside! (1%)"
+          }
+        ]
+      },
+      "indexObtainable": true,
+      "name": "Titanic Jelly Cat",
+      "indexDesc": "Found in the Exclusive Jelly Egg!",
+      "thumbnail": "rbxassetid://14976635882"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Jelly Dragon",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16483351499",
+      "animations": {
+        "replacementPool": [
+          [
+            1,
+            0.5
+          ],
+          [
+            2,
+            0.2
+          ],
+          [
+            3,
+            0.15
+          ],
+          [
+            4,
+            0.1
+          ],
+          [
+            5,
+            0.04
+          ],
+          [
+            6,
+            0.01
+          ]
+        ],
+        "jelly": true,
+        "replacements": [
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Lootbag inside! (50%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Enchant Book inside! (20%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Crystal Chest inside! (15%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Present inside! (10%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with a Pinata inside! (4%)"
+          },
+          {
+            "dst": null,
+            "isUnique": true,
+            "title": "Jelly",
+            "desc": "Comes with Preston inside! (1%)"
+          }
+        ]
+      },
+      "indexObtainable": true,
+      "flyingTitanic": true,
+      "name": "Titanic Jelly Dragon",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Super Jelly Egg!",
+      "thumbnail": "rbxassetid://16483343520"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Jolly Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://17787594822",
+      "indexObtainable": true,
+      "name": "Titanic Jolly Cat",
+      "indexDesc": "Earned on the Christmas Event in PSX and the Exclusive Jolly Egg!",
+      "thumbnail": "rbxassetid://17787600314"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Kawaii Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16393812985",
+      "indexObtainable": true,
+      "name": "Titanic Kawaii Cat",
+      "indexDesc": "Comes with the Titanic Kawaii Cat plush!",
+      "thumbnail": "rbxassetid://16393812743"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Kitsune Fox",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://18352470225",
+      "indexObtainable": true,
+      "name": "Titanic Kitsune Fox",
+      "indexDesc": "Found in The Forever Pack!",
+      "thumbnail": "rbxassetid://18352469980"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Love Lamb",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16234774701",
+      "animations": {
+        "ridingCameraOffset": null,
+        "boneFlyingAnimation": "rbxassetid://16359183141"
+      },
+      "indexObtainable": true,
+      "flyingTitanic": true,
+      "name": "Titanic Love Lamb",
+      "fly": true,
+      "indexDesc": "Comes with the Titanic Love Lamb plush!",
+      "thumbnail": "rbxassetid://16234774596"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Lovemelon",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16306754911",
+      "indexObtainable": true,
+      "name": "Titanic Lovemelon",
+      "indexDesc": "Found in the Exclusive Valentine's Egg!",
+      "thumbnail": "rbxassetid://16306754796"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Lucki",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977542134",
+      "indexObtainable": true,
+      "name": "Titanic Lucki",
+      "fly": true,
+      "indexDesc": "Comes with the Titanic Lucki plush!",
+      "thumbnail": "rbxassetid://14976642572"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Monkey",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://15842480094",
+      "indexObtainable": true,
+      "name": "Titanic Monkey",
+      "indexDesc": "Comes with the Titanic Monkey plush!",
+      "thumbnail": "rbxassetid://15842479997"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Mystic Corgi",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977547006",
+      "indexObtainable": true,
+      "name": "Titanic Mystic Corgi",
+      "indexDesc": "Found in the Exclusive Crystal Egg!",
+      "thumbnail": "rbxassetid://14976647316"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Neon Agony",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://12224913519",
+      "indexObtainable": true,
+      "name": "Titanic Neon Agony",
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Neon Egg!",
+      "thumbnail": "rbxassetid://14976647939"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Nightfall Pegasus",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://18640616459",
+      "indexObtainable": true,
+      "flyingTitanic": true,
+      "name": "Titanic Nightfall Pegasus",
+      "flyingTitanicAlwaysFly": true,
+      "fly": true,
+      "indexDesc": "Comes with the Titanic Nightfall Pegasus plush!",
+      "thumbnail": "rbxassetid://18640616333"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Nightfall Wolf",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16394133269",
+      "indexObtainable": true,
+      "name": "Titanic Nightfall Wolf",
+      "indexDesc": "Comes with the Titanic Nightfall Wolf plush!",
+      "thumbnail": "rbxassetid://16394133066"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Nightmare Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://15260478739",
+      "animations": {
+        "balloon": true,
+        "balloonSpeed": 0.25,
+        "balloonScale": null
+      },
+      "indexObtainable": true,
+      "name": "Titanic Nightmare Cat",
+      "indexDesc": "Found in the Exclusive Nightmare Egg!",
+      "thumbnail": "rbxassetid://15260478604"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Orange Axolotl",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://17269848775",
+      "indexObtainable": true,
+      "name": "Titanic Orange Axolotl",
+      "indexDesc": "Comes with the Titanic Orange Axolotl plush!",
+      "thumbnail": "rbxassetid://17269848594"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Party Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16901676326",
+      "indexObtainable": true,
+      "name": "Titanic Party Cat",
+      "indexDesc": "Found in the Hype Egg every update!",
+      "thumbnail": "rbxassetid://16901676187"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Pink Balloon",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977806706",
+      "animations": {
+        "balloon": true
+      },
+      "indexObtainable": true,
+      "name": "Titanic Pink Balloon Cat",
+      "fly": true,
+      "indexDesc": "Comes with the Titanic Pink Balloon plush!",
+      "thumbnail": "rbxassetid://14976657520"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Red Balloon Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14976586251",
+      "animations": {
+        "balloon": true,
+        "ridingGravity": 65.3346,
+        "ridingCameraOffset": null,
+        "ridingJumpPower": 52.5
+      },
+      "indexObtainable": true,
+      "name": "Titanic Red Balloon Cat",
+      "fly": true,
+      "indexDesc": "Comes with the Titanic Red Balloon Cat plush!",
+      "thumbnail": "rbxassetid://14976586155"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Red Panda",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://15842479903",
+      "indexObtainable": true,
+      "name": "Titanic Red Panda",
+      "indexDesc": "Comes with the Titanic Red Panda plush!",
+      "thumbnail": "rbxassetid://15842479817"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Reindeer",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977562334",
+      "indexObtainable": true,
+      "name": "Titanic Reindeer",
+      "indexDesc": "Comes with the Titanic Reindeer plush!",
+      "thumbnail": "rbxassetid://15581758974"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Rich Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://17194509191",
+      "indexObtainable": true,
+      "name": "Titanic Rich Cat",
+      "indexDesc": "Found in The Forever Pack!",
+      "thumbnail": "rbxassetid://17194508969"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Scary Corgi",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977567555",
+      "indexObtainable": true,
+      "name": "Titanic Scary Corgi",
+      "fly": true,
+      "indexDesc": "Comes with the Titanic Scary Corgi plush!",
+      "thumbnail": "rbxassetid://14976669980"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Shadow Griffin",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977638619",
+      "indexObtainable": true,
+      "name": "Titanic Shadow Griffin",
+      "fly": true,
+      "indexDesc": "Comes with the Titanic Shadow Griffin plush!",
+      "thumbnail": "rbxassetid://14976670848"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Shiba",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16393850204",
+      "indexObtainable": true,
+      "name": "Titanic Shiba",
+      "indexDesc": "Comes with the Titanic Shiba plush!",
+      "thumbnail": "rbxassetid://16393850015"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Silver Dragon",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://15687351161",
+      "animations": {
+        "ridingCameraOffset": null,
+        "boneFlyingAnimation": "rbxassetid://15696174011"
+      },
+      "indexObtainable": true,
+      "flyingTitanic": true,
+      "name": "Titanic Silver Dragon",
+      "fly": true,
+      "indexDesc": "Found in the 2023 Titanic Present & Exclusive Xmas Egg!",
+      "thumbnail": "rbxassetid://15687351099"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Sketch Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://17028962602",
+      "animations": {
+        "particlesSketch": {
+          "Idle": {
+            "Left": null,
+            "Right": null
+          },
+          "Farm": {
+            "Left": null,
+            "Right": null
+          }
+        }
+      },
+      "indexObtainable": true,
+      "name": "Titanic Sketch Cat",
+      "indexDesc": "Found in the Exclusive Sketch Egg!",
+      "thumbnail": "rbxassetid://17027114400"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Sock Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16393837514",
+      "indexObtainable": true,
+      "name": "Titanic Sock Cat",
+      "indexDesc": "Comes with the Titanic Sock Cat plush!",
+      "thumbnail": "rbxassetid://16393837325"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Sock Monkey",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16393836932",
+      "indexObtainable": true,
+      "name": "Titanic Sock Monkey",
+      "indexDesc": "Comes with the Titanic Sock Monkey plush!",
+      "thumbnail": "rbxassetid://16393836771"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic SpongeBob SquarePants",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://18313091924",
+      "indexObtainable": true,
+      "name": "Titanic SpongeBob SquarePants",
+      "indexDesc": "Found in the Exclusive SpongeBob Egg!",
+      "thumbnail": "rbxassetid://18313091924"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Stargazing Bull",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "",
+      "indexObtainable": true,
+      "indexDesc": "Found in the Exclusive Stargazing Egg!",
+      "name": "Titanic Stargazing Bull",
+      "thumbnail": "rbxassetid://17602420874"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Strawberry Cow",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://14977573985",
+      "indexObtainable": true,
+      "name": "Titanic Strawberry Cow",
+      "indexDesc": "Comes with the Titanic Strawberry Cow plush!",
+      "thumbnail": "rbxassetid://14976827001"
+    },
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Tiedye Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://15547850956",
+      "indexObtainable": true,
+      "name": "Titanic Tiedye Cat",
+      "indexDesc": "Comes with the Titanic Tiedye Cat plush!",
+      "thumbnail": "rbxassetid://15547792344"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Tiedye Dragon",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://15547850879",
+      "indexObtainable": true,
+      "name": "Titanic Tiedye Dragon",
+      "fly": true,
+      "indexDesc": "Comes with the Titanic Tiedye Dragon plush!",
+      "thumbnail": "rbxassetid://15547792197"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Valentines Cat",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://16234782215",
+      "indexObtainable": true,
+      "name": "Titanic Valentine's Cat",
+      "indexDesc": "Comes with the Titanic Valentines Cat plush!",
+      "thumbnail": "rbxassetid://16234782048"
+    },
+    "hash": null,
+    "dateModified": null,
+    "dateCreated": null,
+    "collection": "Pets"
+  },
+  {
+    "configName": "Titanic Valkyrie Pegasus",
+    "category": "Titanic",
+    "configData": {
+      "titanic": true,
+      "goldenThumbnail": "rbxassetid://18465212052",
+      "indexObtainable": true,
+      "flyingTitanic": true,
+      "name": "Titanic Valkyrie Pegasus",
+      "flyingTitanicAlwaysFly": true,
+      "fly": true,
+      "indexDesc": "Found in the Exclusive Valkyrie Egg!",
+      "thumbnail": "rbxassetid://18465212052"
+    },
+    "collection": "Pets"
+  }
+]
